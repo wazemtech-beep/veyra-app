@@ -1,0 +1,82 @@
+/* Veyra accents are scoped to their surface so mint remains readable. */
+.brisify-site {
+  --veyra-ink: #171e24;
+  --veyra-mint: #a6e8ce;
+  --veyra-coral: #f29b86;
+  --_colors---text-color--text-quaternary: #216a58;
+}
+
+.veyra-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--veyra-ink);
+  flex: none;
+}
+
+.veyra-brand__mark {
+  display: block;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.veyra-brand__wordmark {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-family--primary-font);
+  font-size: 23px;
+  line-height: 1.5;
+}
+
+.veyra-brand__wordmark > span {
+  font-family: var(--font-family--secondary-font);
+  font-size: 10px;
+  line-height: 1;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.veyra-brand--symbol {
+  background: var(--veyra-mint);
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  justify-content: center;
+}
+
+.veyra-brand--symbol .veyra-brand__mark {
+  width: 112px;
+  height: 112px;
+}
+
+.brisify-site .rt-footer-v1-wrapper,
+.brisify-site .rt-nav-menu-curtain-v2 {
+  --_colors---text-color--text-quaternary: var(--veyra-mint);
+}
+
+.brisify-site .rt-footer-link:hover {
+  color: var(--veyra-coral);
+}
+
+.brisify-site .rt-sub-text::selection,
+.brisify-site ::selection {
+  background: var(--veyra-mint);
+  color: var(--veyra-ink);
+}
+
+.brisify-site .rt-back-to-top:hover,
+.brisify-site .rt-team-v1-card-icon-wrap {
+  background-color: var(--veyra-coral);
+}
+
+.brisify-site .rt-footer-v1-wrapper .rt-sub-text {
+  color: var(--veyra-coral);
+}
+
+@media (max-width: 479px) {
+  .veyra-brand__wordmark { font-size: 20px; }
+  .veyra-brand__mark { width: 34px; height: 34px; }
+  .veyra-brand--symbol { width: 96px; height: 96px; }
+  .veyra-brand--symbol .veyra-brand__mark { width: 68px; height: 68px; }
+}

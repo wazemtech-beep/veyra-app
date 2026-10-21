@@ -1,0 +1,687 @@
+:root {
+  --_colors---background-color--bg-primary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --font-family--secondary-font: Geist, sans-serif;
+  --_colors---text-color--text-secondary: var(
+    --_colors---neutral-color--neutral-600
+  );
+  --body-text--body-size: 1rem;
+  --body-text--body-line-height: 160%;
+  --body-text--body-weight: var(--font-weight--regular);
+  --body-text--body-letter-spacing: 0.0125rem;
+  --font-family--primary-font: Boldonse, sans-serif;
+  --_colors---text-color--text-primary: var(
+    --_colors---neutral-color--neutral-900
+  );
+  --h1-heading--h1-size: 3rem;
+  --h1-heading--h1-line-height: 140%;
+  --h1-heading--h1-weight: var(--font-weight--regular);
+  --h1-heading--h1-letter-spacing: -0.0938rem;
+  --_sizes---spacing--sp-1-25x: 1.25rem;
+  --h2-heading--h2-bottom-margin: var(--_sizes---spacing--sp-2x);
+  --h2-heading--h2-size: 2.25rem;
+  --h2-heading--h2-line-height: 140%;
+  --h2-heading--h2-weight: var(--font-weight--regular);
+  --h2-heading--h2-letter-spacing: 0rem;
+  --_sizes---gap--sm: var(--_sizes---spacing--sp-1-5x);
+  --_sizes---gap--xs: var(--_sizes---spacing--sp-1x);
+  --h3-heading--h3-size: 1.875rem;
+  --h3-heading--h3-line-height: 150%;
+  --h3-heading--h3-weight: var(--font-weight--regular);
+  --h3-heading--h3-letter-spacing: 0rem;
+  --h4-heading--h4-size: 1.3125rem;
+  --h4-heading--h4-line-height: 170%;
+  --h4-heading--h4-weight: var(--font-weight--regular);
+  --h4-heading--h4-letter-spacing: -0.0469rem;
+  --h5-heading--h5-size: 1.125rem;
+  --h5-heading--h5-line-height: 160%;
+  --h5-heading--h5-weight: var(--font-weight--regular);
+  --h5-heading--h5-letter-spacing: 0.0187rem;
+  --h6-heading--h6-size: 1.0625rem;
+  --h6-heading--h6-line-height: 165%;
+  --h6-heading--h6-weight: var(--font-weight--regular);
+  --h6-heading--h6-letter-spacing: 0.0313rem;
+  --_colors---text-color--text-nonary: #38464d;
+  --_sizes---spacing--sp-0x: 0rem;
+  --font-weight--bold: 700;
+  --_sizes---section-gap-md: var(--_sizes---spacing--sp-10x);
+  --_sizes---spacing--sp-7-5x: 7.5rem;
+  --_sizes---gap--md: var(--_sizes---spacing--sp-1-875x);
+  --_sizes---container--container-small: 102.5rem;
+  --_sizes---container--container-gutter: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---spacing--sp-5x: 5rem;
+  --_sizes---radius--sm: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---gap--lg: var(--_sizes---spacing--sp-2x);
+  --_sizes---gap--2xs: var(--_sizes---spacing--sp-0-75x);
+  --large-text-v1--large-text-v1-size: clamp(4rem, 16vw, 12.5rem);
+  --large-text-v1--large-text-v1-height: 130%;
+  --large-text-v1--large-text-v1-weight: var(--font-weight--regular);
+  --large-text-v1--large-text-v1-spacing: -1.125rem;
+  --_sizes---spacing--sp-0-125x: 0.125rem;
+  --large-text-v3--large-text-v2-size: clamp(3.5rem, 4vw, 6.25rem);
+  --large-text-v3--large-text-v2-height: 130%;
+  --large-text-v3--large-text-v2-weight: var(--font-weight--regular);
+  --large-text-v3--large-text-v2-spacing: -0.1rem;
+  --_colors---neutral-color--neutral-400: #d6e1e4;
+  --_sizes---radius--xs: var(--_sizes---spacing--sp-0-5x);
+  --_sizes---grid-span--grid-4x: 31.5rem;
+  --_animation-variable---blur--service-two-blue-one: 0rem;
+  --_animation-variable---blur--service-two-blue-two: 0rem;
+  --_animation-variable---blur--service-two-blue-three: 0rem;
+  --_animation-variable---blur--service-two-blue-four: 0rem;
+  --_sizes---grid-span--grid-1x: 6.75rem;
+  --_sizes---grid-span--grid-0x: 0rem;
+  --_sizes---spacing--sp-6-25x: 6.25rem;
+  --_sizes---spacing--sp-4-75x: 4.75rem;
+  --_sizes---spacing--sp-3-5x: 3.5rem;
+  --_sizes---spacing--sp-6-75x: 6.75rem;
+  --_sizes---gap--3xl: var(--_sizes---spacing--sp-4-375x);
+  --_sizes---grid-span--grid-8x: 64.5rem;
+  --_sizes---spacing--sp-0-0625x: 0.0625rem;
+  --_sizes---spacing--sp-0-5x: 0.5rem;
+  --button-text--button-size: 1.0625rem;
+  --button-text--button-line-height: 180%;
+  --button-text--button-weight: var(--font-weight--regular);
+  --button-text--button-letter-spacing: 0rem;
+  --_colors---text-color--text-tertiary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_sizes---spacing--sp-0-25x: 0.25rem;
+  --_sizes---grid-span--grid-10x: 81rem;
+  --_sizes---spacing--sp-44x: 44rem;
+  --_sizes---spacing--sp-53x: 53rem;
+  --_sizes---spacing--sp-15x: 15rem;
+  --label-text--label-size: 1.0625rem;
+  --label-text--label-line-height: 160%;
+  --label-text--label-weight: var(--font-weight--bold);
+  --label-text--label-letter-spacing: -0.0469rem;
+  --_sizes---between-gap--flex-between-gap: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---grid-span--grid-6x: 48rem;
+  --_sizes---grid-span--grid-5x: 39.75rem;
+  --text-bold--bold-text-size: 1.062rem;
+  --text-bold--bold-text-line-height: 160%;
+  --text-bold--bold-text-weight: var(--font-weight--regular);
+  --text-bold--bold-text-letter-spacing: 0rem;
+  --_sizes---gap--2xl: var(--_sizes---spacing--sp-3-75x);
+  --_sizes---gap--xl: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---grid-span--grid-7x: 56.25rem;
+  --small-body-text--small-text-size: 0.75rem;
+  --small-body-text--small-text-height: 130%;
+  --small-body-text--small-text-weight: var(--font-weight--regular);
+  --small-body-text--small-text-spacing: 0.05rem;
+  --_colors---background-color--bg-quaternary: var(
+    --_colors---background-color--bg-denary
+  );
+  --_sizes---spacing--sp-3-125x: 3.125rem;
+  --_colors---background-color--bg-secondary: var(
+    --_colors---neutral-color--neutral-900
+  );
+  --_sizes---border-width--border-width-v1: var(--_sizes---spacing--sp-0-0625x);
+  --_colors---border-color--border-color-primary: var(
+    --_colors---color-tint--neutral-900-a70
+  );
+  --_colors---border-color--border-color-secondary: var(
+    --_colors---neutral-color--neutral-400
+  );
+  --font-weight--semi-bold: 600;
+  --font-weight--medium: 500;
+  --_sizes---section-gap-sm: var(--_sizes---spacing--sp-7-5x);
+  --_sizes---spacing--sp-0-75x: 0.75rem;
+  --_sizes---grid-span--grid-3x: 23.25rem;
+  --_sizes---spacing--sp-30x: 30rem;
+  --_sizes---spacing--sp-24x: 24rem;
+  --_sizes---spacing--sp-4x: 4rem;
+  --_colors---text-color--text-quaternary: var(
+    --_colors---neutral-color--neutral-500
+  );
+  --_colors---border-color--border-color-quartary: var(
+    --_colors---color-tint--neutral-100-a20
+  );
+  --_sizes---spacing--sp-3x: 3rem;
+  --_colors---neutral-color--neutral-500: #a6e8ce;
+  --_sizes---spacing--sp-2-25x: 2.25rem;
+  --_sizes---spacing--sp-17x: 17rem;
+  --large-text-v2--footer-large-text-size: clamp(4rem, 7vw, 10rem);
+  --large-text-v2--footer-large-text-height: 130%;
+  --large-text-v2--footer-large-text-weight: var(--font-weight--regular);
+  --large-text-v2--footer-large-text-spacing: 0.0625rem;
+  --_sizes---spacing--sp-9-5x: 9.5rem;
+  --_sizes---spacing--sp-3-75x: 3.75rem;
+  --_colors---neutral-color--transparent: #fff0;
+  --nav-text--nav-size: 0.9375rem;
+  --nav-text--nav-weight: var(--font-weight--semi-bold);
+  --nav-text--nav-spacing: -0.03125rem;
+  --_sizes---spacing--sp-16-25x: 16.25rem;
+  --_sizes---spacing--sp-14x: 14rem;
+  --_animation-variable---service-image-saturation: 100%;
+  --_sizes---spacing--sp-1x: 1rem;
+  --_sizes---spacing--sp-28x: 28rem;
+  --_sizes---radius--radius: 100%;
+  --_colors---color-tint--neutral-100-a80: #fffc;
+  --_sizes---spacing--sp-39x: 39rem;
+  --_sizes---spacing--sp-9x: 9rem;
+  --_sizes---spacing--sp-2-75x: 2.75rem;
+  --_colors---color-tint--neutral-900-a70: #171e24b3;
+  --_sizes---spacing--sp-9-25x: 9.25rem;
+  --_sizes---spacing--sp-1-5x: 1.5rem;
+  --_colors---background-color--bg-tertiary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_colors---color-tint--neutral-800-a20: #6d6d6d33;
+  --_colors---color-tint--neutral-900-a28: #171e2447;
+  --_sizes---spacing--sp-5-75x: 5.75rem;
+  --_sizes---spacing--sp-40x: 40rem;
+  --_sizes---spacing--sp-12x: 12rem;
+  --_sizes---spacing--sp-11x: 11rem;
+  --font-family--tertiary-font: "Playwrite US Trad", sans-serif;
+  --highlight-text--highllight-text-size: 3.25rem;
+  --highlight-text--highllight-text-height: 110%;
+  --highlight-text--highllight-text-weight: var(--font-weight--regular);
+  --highlight-text--highllight-text-spacing: 0rem;
+  --_sizes---grid-span--grid-11x: 89.25rem;
+  --_colors---color-tint--neutral-900-a15: #171e2426;
+  --_sizes---spacing--sp-7-25x: 7.25rem;
+  --_sizes---spacing--sp-11-5x: 11.5rem;
+  --_sizes---grid-span--grid-2x: 15rem;
+  --_sizes---spacing--sp-50x: 50rem;
+  --_animation-variable---opacity--opacity-3: 0%;
+  --_animation-variable---opacity--opacity-4: 0%;
+  --_animation-variable---opacity--opacity-5: 0%;
+  --_animation-variable---opacity--opacity-6: 0%;
+  --_animation-variable---opacity--opacity-1: 100%;
+  --_animation-variable---opacity--opacity-2: 100%;
+  --_colors---text-color--text-quinary: var(
+    --_colors---neutral-color--neutral-700
+  );
+  --_sizes---spacing--sp-0-625x: 0.625rem;
+  --_sizes---spacing--sp-8-75x: 8.75rem;
+  --_sizes---container--container-full: 100%;
+  --testimonial-text--testimonial-text-size: 1.125rem;
+  --testimonial-text--testimonial-text-height: 146%;
+  --testimonial-text--testimonial-text-weight: var(--font-weight--regular);
+  --testimonial-text--testimonial-text-spacing: 0rem;
+  --_sizes---container--container: 117.5rem;
+  --_colors---background-color--bg-quinary: var(
+    --_colors---neutral-color--neutral-700
+  );
+  --_colors---color-tint--neutral-100-a20: #fff3;
+  --_sizes---spacing--sp-2-5x: 2.5rem;
+  --_colors---border-color--border-color-quinary: var(
+    --_colors---neutral-color--neutral-400
+  );
+  --_animation-variable---inset-for-mission: 100%;
+  --_sizes---spacing--sp-7x: 7rem;
+  --_sizes---spacing--sp-10x: 10rem;
+  --_sizes---spacing--sp-5-25x: 5.25rem;
+  --_sizes---section-gap-lg: var(--_sizes---spacing--sp-15x);
+  --_colors---background-color--bg-denary: var(
+    --_colors---neutral-color--neutral-300
+  );
+  --_colors---neutral-color--neutral-800: #38464d;
+  --_sizes---spacing--sp-6x: 6rem;
+  --_sizes---spacing--sp-2x: 2rem;
+  --_sizes---grid-span--grid-9x: 72.75rem;
+  --_colors---color-tint--neutral-100-a50: #ffffff80;
+  --_colors---neutral-color--neutral-300: #ebf0f2;
+  --_colors---color-tint--neutral-900-a50: #171e2480;
+  --_colors---neutral-color--neutral-100: white;
+  --_colors---neutral-color--neutral-700: #ced9de;
+  --_colors---neutral-color--neutral-200: #f7f9fa;
+  --_colors---neutral-color--neutral-600: #57666b;
+  --_colors---neutral-color--neutral-900: #171e24;
+  --_sizes---spacing--sp-8-25x: 8.25rem;
+  --_sizes---spacing--sp-5-5x: 5.5rem;
+  --_sizes---spacing--sp-1-875x: 1.875rem;
+  --_sizes---spacing--sp-6-5x: 6.5rem;
+  --font-weight--regular: 400;
+  --_sizes---spacing--sp-4-375x: 4.375rem;
+}
+
+.w-layout-blockcontainer {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.w-layout-hflex {
+  flex-direction: row;
+  align-items: flex-start;
+  display: flex;
+}
+
+.w-backgroundvideo-backgroundvideoplaypausebutton:focus-visible {
+  outline-offset: 2px;
+  border-radius: 50%;
+  outline: 2px solid #3b79c3;
+}
+
+.w-layout-vflex {
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+
+.w-layout-grid {
+  grid-row-gap: 16px;
+  grid-column-gap: 16px;
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+}
+
+.w-form-formradioinput--inputType-custom {
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+}
+
+.w-form-formradioinput--inputType-custom.w--redirected-focus {
+  box-shadow: 0 0 3px 1px #3898ec;
+}
+
+.w-form-formradioinput--inputType-custom.w--redirected-checked {
+  border-width: 4px;
+  border-color: #3898ec;
+}
+
+@media screen and (max-width: 991px) {
+  .w-layout-blockcontainer {
+    max-width: 728px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .w-layout-blockcontainer {
+    max-width: none;
+  }
+}
+
+body {
+  background-color: var(--_colors---background-color--bg-primary);
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-secondary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+  --font-family--secondary-font: Geist, sans-serif;
+  --body-text--body-size: 1rem;
+  --body-text--body-line-height: 160%;
+  --body-text--body-weight: var(--font-weight--regular);
+  --body-text--body-letter-spacing: 0.0125rem;
+  --font-family--primary-font: Boldonse, sans-serif;
+  --h1-heading--h1-size: 3rem;
+  --h1-heading--h1-line-height: 140%;
+  --h1-heading--h1-weight: var(--font-weight--regular);
+  --h1-heading--h1-letter-spacing: -0.0938rem;
+  --h2-heading--h2-bottom-margin: var(--_sizes---spacing--sp-2x);
+  --h2-heading--h2-size: 2.25rem;
+  --h2-heading--h2-line-height: 140%;
+  --h2-heading--h2-weight: var(--font-weight--regular);
+  --h2-heading--h2-letter-spacing: 0rem;
+  --h3-heading--h3-size: 1.875rem;
+  --h3-heading--h3-line-height: 150%;
+  --h3-heading--h3-weight: var(--font-weight--regular);
+  --h3-heading--h3-letter-spacing: 0rem;
+  --h4-heading--h4-size: 1.3125rem;
+  --h4-heading--h4-line-height: 170%;
+  --h4-heading--h4-weight: var(--font-weight--regular);
+  --h4-heading--h4-letter-spacing: -0.0469rem;
+  --h5-heading--h5-size: 1.125rem;
+  --h5-heading--h5-line-height: 160%;
+  --h5-heading--h5-weight: var(--font-weight--regular);
+  --h5-heading--h5-letter-spacing: 0.0187rem;
+  --h6-heading--h6-size: 1.0625rem;
+  --h6-heading--h6-line-height: 165%;
+  --h6-heading--h6-weight: var(--font-weight--regular);
+  --h6-heading--h6-letter-spacing: 0.0313rem;
+  --font-weight--bold: 700;
+  --large-text-v1--large-text-v1-size: clamp(4rem, 16vw, 12.5rem);
+  --large-text-v1--large-text-v1-height: 130%;
+  --large-text-v1--large-text-v1-weight: var(--font-weight--regular);
+  --large-text-v1--large-text-v1-spacing: -1.125rem;
+  --large-text-v3--large-text-v2-size: clamp(3.5rem, 4vw, 6.25rem);
+  --large-text-v3--large-text-v2-height: 130%;
+  --large-text-v3--large-text-v2-weight: var(--font-weight--regular);
+  --large-text-v3--large-text-v2-spacing: -0.1rem;
+  --button-text--button-size: 1.0625rem;
+  --button-text--button-line-height: 180%;
+  --button-text--button-weight: var(--font-weight--regular);
+  --button-text--button-letter-spacing: 0rem;
+  --label-text--label-size: 1.0625rem;
+  --label-text--label-line-height: 160%;
+  --label-text--label-weight: var(--font-weight--bold);
+  --label-text--label-letter-spacing: -0.0469rem;
+  --text-bold--bold-text-size: 1.062rem;
+  --text-bold--bold-text-line-height: 160%;
+  --text-bold--bold-text-weight: var(--font-weight--regular);
+  --text-bold--bold-text-letter-spacing: 0rem;
+  --small-body-text--small-text-size: 0.75rem;
+  --small-body-text--small-text-height: 130%;
+  --small-body-text--small-text-weight: var(--font-weight--regular);
+  --small-body-text--small-text-spacing: 0.05rem;
+  --font-weight--semi-bold: 600;
+  --font-weight--medium: 500;
+  --large-text-v2--footer-large-text-size: clamp(4rem, 7vw, 10rem);
+  --large-text-v2--footer-large-text-height: 130%;
+  --large-text-v2--footer-large-text-weight: var(--font-weight--regular);
+  --large-text-v2--footer-large-text-spacing: 0.0625rem;
+  --nav-text--nav-size: 0.9375rem;
+  --nav-text--nav-weight: var(--font-weight--semi-bold);
+  --nav-text--nav-spacing: -0.03125rem;
+  --font-family--tertiary-font: "Playwrite US Trad", sans-serif;
+  --highlight-text--highllight-text-size: 3.25rem;
+  --highlight-text--highllight-text-height: 110%;
+  --highlight-text--highllight-text-weight: var(--font-weight--regular);
+  --highlight-text--highllight-text-spacing: 0rem;
+  --testimonial-text--testimonial-text-size: 1.125rem;
+  --testimonial-text--testimonial-text-height: 146%;
+  --testimonial-text--testimonial-text-weight: var(--font-weight--regular);
+  --testimonial-text--testimonial-text-spacing: 0rem;
+  --font-weight--regular: 400;
+  --_colors---background-color--bg-primary: var(
+    --_colors---neutral-color--neutral-200
+  );
+  --_colors---text-color--text-secondary: var(
+    --_colors---neutral-color--neutral-600
+  );
+  --_colors---text-color--text-primary: var(
+    --_colors---neutral-color--neutral-900
+  );
+  --_colors---text-color--text-nonary: #38464d;
+  --_colors---neutral-color--neutral-400: #d6e1e4;
+  --_colors---text-color--text-tertiary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_colors---background-color--bg-quaternary: var(
+    --_colors---background-color--bg-denary
+  );
+  --_colors---background-color--bg-secondary: var(
+    --_colors---neutral-color--neutral-900
+  );
+  --_colors---border-color--border-color-primary: var(
+    --_colors---color-tint--neutral-900-a70
+  );
+  --_colors---border-color--border-color-secondary: var(
+    --_colors---neutral-color--neutral-400
+  );
+  --_colors---text-color--text-quaternary: var(
+    --_colors---neutral-color--neutral-500
+  );
+  --_colors---border-color--border-color-quartary: var(
+    --_colors---color-tint--neutral-100-a20
+  );
+  --_colors---neutral-color--neutral-500: #a6e8ce;
+  --_colors---neutral-color--transparent: #fff0;
+  --_colors---color-tint--neutral-100-a80: #fffc;
+  --_colors---color-tint--neutral-900-a70: #171e24b3;
+  --_colors---background-color--bg-tertiary: var(
+    --_colors---neutral-color--neutral-100
+  );
+  --_colors---color-tint--neutral-800-a20: #6d6d6d33;
+  --_colors---color-tint--neutral-900-a28: #171e2447;
+  --_colors---color-tint--neutral-900-a15: #171e2426;
+  --_colors---text-color--text-quinary: var(
+    --_colors---neutral-color--neutral-700
+  );
+  --_colors---background-color--bg-quinary: var(
+    --_colors---neutral-color--neutral-700
+  );
+  --_colors---color-tint--neutral-100-a20: #fff3;
+  --_colors---border-color--border-color-quinary: var(
+    --_colors---neutral-color--neutral-400
+  );
+  --_colors---background-color--bg-denary: var(
+    --_colors---neutral-color--neutral-300
+  );
+  --_colors---neutral-color--neutral-800: #38464d;
+  --_colors---color-tint--neutral-100-a50: #ffffff80;
+  --_colors---neutral-color--neutral-300: #ebf0f2;
+  --_colors---color-tint--neutral-900-a50: #171e2480;
+  --_colors---neutral-color--neutral-100: white;
+  --_colors---neutral-color--neutral-700: #ced9de;
+  --_colors---neutral-color--neutral-200: #f7f9fa;
+  --_colors---neutral-color--neutral-600: #57666b;
+  --_colors---neutral-color--neutral-900: #171e24;
+  --_sizes---spacing--sp-1-25x: 1.25rem;
+  --_sizes---gap--sm: var(--_sizes---spacing--sp-1-5x);
+  --_sizes---gap--xs: var(--_sizes---spacing--sp-1x);
+  --_sizes---spacing--sp-0x: 0rem;
+  --_sizes---section-gap-md: var(--_sizes---spacing--sp-10x);
+  --_sizes---spacing--sp-7-5x: 7.5rem;
+  --_sizes---gap--md: var(--_sizes---spacing--sp-1-875x);
+  --_sizes---container--container-small: 102.5rem;
+  --_sizes---container--container-gutter: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---spacing--sp-5x: 5rem;
+  --_sizes---radius--sm: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---gap--lg: var(--_sizes---spacing--sp-2x);
+  --_sizes---gap--2xs: var(--_sizes---spacing--sp-0-75x);
+  --_sizes---spacing--sp-0-125x: 0.125rem;
+  --_sizes---radius--xs: var(--_sizes---spacing--sp-0-5x);
+  --_sizes---grid-span--grid-4x: 31.5rem;
+  --_sizes---grid-span--grid-1x: 6.75rem;
+  --_sizes---grid-span--grid-0x: 0rem;
+  --_sizes---spacing--sp-6-25x: 6.25rem;
+  --_sizes---spacing--sp-4-75x: 4.75rem;
+  --_sizes---spacing--sp-3-5x: 3.5rem;
+  --_sizes---spacing--sp-6-75x: 6.75rem;
+  --_sizes---gap--3xl: var(--_sizes---spacing--sp-4-375x);
+  --_sizes---grid-span--grid-8x: 64.5rem;
+  --_sizes---spacing--sp-0-0625x: 0.0625rem;
+  --_sizes---spacing--sp-0-5x: 0.5rem;
+  --_sizes---spacing--sp-0-25x: 0.25rem;
+  --_sizes---grid-span--grid-10x: 81rem;
+  --_sizes---spacing--sp-44x: 44rem;
+  --_sizes---spacing--sp-53x: 53rem;
+  --_sizes---spacing--sp-15x: 15rem;
+  --_sizes---between-gap--flex-between-gap: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---grid-span--grid-6x: 48rem;
+  --_sizes---grid-span--grid-5x: 39.75rem;
+  --_sizes---gap--2xl: var(--_sizes---spacing--sp-3-75x);
+  --_sizes---gap--xl: var(--_sizes---spacing--sp-2-5x);
+  --_sizes---grid-span--grid-7x: 56.25rem;
+  --_sizes---spacing--sp-3-125x: 3.125rem;
+  --_sizes---border-width--border-width-v1: var(--_sizes---spacing--sp-0-0625x);
+  --_sizes---section-gap-sm: var(--_sizes---spacing--sp-7-5x);
+  --_sizes---spacing--sp-0-75x: 0.75rem;
+  --_sizes---grid-span--grid-3x: 23.25rem;
+  --_sizes---spacing--sp-30x: 30rem;
+  --_sizes---spacing--sp-24x: 24rem;
+  --_sizes---spacing--sp-4x: 4rem;
+  --_sizes---spacing--sp-3x: 3rem;
+  --_sizes---spacing--sp-2-25x: 2.25rem;
+  --_sizes---spacing--sp-17x: 17rem;
+  --_sizes---spacing--sp-9-5x: 9.5rem;
+  --_sizes---spacing--sp-3-75x: 3.75rem;
+  --_sizes---spacing--sp-16-25x: 16.25rem;
+  --_sizes---spacing--sp-14x: 14rem;
+  --_sizes---spacing--sp-1x: 1rem;
+  --_sizes---spacing--sp-28x: 28rem;
+  --_sizes---radius--radius: 100%;
+  --_sizes---spacing--sp-39x: 39rem;
+  --_sizes---spacing--sp-9x: 9rem;
+  --_sizes---spacing--sp-2-75x: 2.75rem;
+  --_sizes---spacing--sp-9-25x: 9.25rem;
+  --_sizes---spacing--sp-1-5x: 1.5rem;
+  --_sizes---spacing--sp-5-75x: 5.75rem;
+  --_sizes---spacing--sp-40x: 40rem;
+  --_sizes---spacing--sp-12x: 12rem;
+  --_sizes---spacing--sp-11x: 11rem;
+  --_sizes---grid-span--grid-11x: 89.25rem;
+  --_sizes---spacing--sp-7-25x: 7.25rem;
+  --_sizes---spacing--sp-11-5x: 11.5rem;
+  --_sizes---grid-span--grid-2x: 15rem;
+  --_sizes---spacing--sp-50x: 50rem;
+  --_sizes---spacing--sp-0-625x: 0.625rem;
+  --_sizes---spacing--sp-8-75x: 8.75rem;
+  --_sizes---container--container-full: 100%;
+  --_sizes---container--container: 117.5rem;
+  --_sizes---spacing--sp-2-5x: 2.5rem;
+  --_sizes---spacing--sp-7x: 7rem;
+  --_sizes---spacing--sp-10x: 10rem;
+  --_sizes---spacing--sp-5-25x: 5.25rem;
+  --_sizes---section-gap-lg: var(--_sizes---spacing--sp-15x);
+  --_sizes---spacing--sp-6x: 6rem;
+  --_sizes---spacing--sp-2x: 2rem;
+  --_sizes---grid-span--grid-9x: 72.75rem;
+  --_sizes---spacing--sp-8-25x: 8.25rem;
+  --_sizes---spacing--sp-5-5x: 5.5rem;
+  --_sizes---spacing--sp-1-875x: 1.875rem;
+  --_sizes---spacing--sp-6-5x: 6.5rem;
+  --_sizes---spacing--sp-4-375x: 4.375rem;
+  font-optical-sizing: auto;
+}
+
+h1 {
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h1-heading--h1-size);
+  line-height: var(--h1-heading--h1-line-height);
+  font-weight: var(--h1-heading--h1-weight);
+  letter-spacing: var(--h1-heading--h1-letter-spacing);
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: var(--_sizes---spacing--sp-1-25x);
+  margin-bottom: var(--h2-heading--h2-bottom-margin);
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h2-heading--h2-size);
+  line-height: var(--h2-heading--h2-line-height);
+  font-weight: var(--h2-heading--h2-weight);
+  letter-spacing: var(--h2-heading--h2-letter-spacing);
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h3-heading--h3-size);
+  line-height: var(--h3-heading--h3-line-height);
+  font-weight: var(--h3-heading--h3-weight);
+  letter-spacing: var(--h3-heading--h3-letter-spacing);
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h4-heading--h4-size);
+  line-height: var(--h4-heading--h4-line-height);
+  font-weight: var(--h4-heading--h4-weight);
+  letter-spacing: var(--h4-heading--h4-letter-spacing);
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h5 {
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h5-heading--h5-size);
+  line-height: var(--h5-heading--h5-line-height);
+  font-weight: var(--h5-heading--h5-weight);
+  letter-spacing: var(--h5-heading--h5-letter-spacing);
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h6 {
+  font-family: var(--font-family--primary-font);
+  color: var(--_colors---text-color--text-primary);
+  font-size: var(--h6-heading--h6-size);
+  line-height: var(--h6-heading--h6-line-height);
+  font-weight: var(--h6-heading--h6-weight);
+  letter-spacing: var(--h6-heading--h6-letter-spacing);
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-nonary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+  margin-bottom: 10px;
+}
+
+a {
+  color: var(--_colors---text-color--text-secondary);
+  text-decoration: none;
+}
+
+ul {
+  margin-top: var(--_sizes---spacing--sp-0x);
+  padding-left: var(--_sizes---gap--sm);
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-secondary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+  font-optical-sizing: auto;
+}
+
+ol {
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-nonary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+  font-optical-sizing: auto;
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-left: 40px;
+}
+
+li {
+  font-family: var(--font-family--secondary-font);
+  color: var(--_colors---text-color--text-nonary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  font-weight: var(--body-text--body-weight);
+  letter-spacing: var(--body-text--body-letter-spacing);
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+
+label {
+  margin-bottom: 5px;
+  display: block;
+}
+
+strong {
+  font-weight: var(--font-weight--bold);
+}
+
+blockquote {
+  color: var(--_colors---text-color--text-nonary);
+  font-size: var(--body-text--body-size);
+  line-height: var(--body-text--body-line-height);
+  letter-spacing: var(--body-text--body-letter-spacing);
+  font-optical-sizing: auto;
+  border-left: 5px solid #e2e2e2;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  font-family: Geist, sans-serif;
+  font-style: normal;
+}

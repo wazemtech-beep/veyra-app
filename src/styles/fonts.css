@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Boldonse";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/dbf061b2c7-ZgNQjPxGPbbJUZemjC38.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/assets/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Playwrite US Trad";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw.ttf)
+    format("truetype");
+}

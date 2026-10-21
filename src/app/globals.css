@@ -1,0 +1,82 @@
+html {
+  scroll-behavior: auto;
+}
+body {
+  margin: 0;
+}
+.brisify-site {
+  overflow-x: clip;
+  --large-text-v1--large-text-v1-size: 12.5rem;
+  --large-text-v3--large-text-v2-size: 3.5rem;
+  --large-text-v2--footer-large-text-size: 5.5rem;
+}
+.brisify-site * {
+  letter-spacing: 0;
+}
+.brisify-site :focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 5px;
+}
+.brisify-site [role="button"],
+.brisify-site [data-design-only] [type="submit"] {
+  cursor: pointer;
+}
+.brisify-site .rt-main-page-wrap {
+  visibility: visible;
+}
+.brisify-site .rt-nav-menu-wrapper {
+  position: fixed;
+  height: 100dvh;
+}
+.brisify-site .rt-nav-menu-curtain {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.brisify-site .rt-faq-v1-bottom-wrap {
+  overflow: hidden;
+}
+.brisify-site .w-background-video video {
+  object-fit: cover;
+}
+.brisify-site .w-checkbox-input {
+  pointer-events: none;
+}
+.brisify-site [data-w-bg-video-control] span[hidden] {
+  display: none !important;
+}
+@media (max-width: 991px) {
+  .brisify-site {
+    --large-text-v1--large-text-v1-size: 8rem;
+    --large-text-v2--footer-large-text-size: 4.5rem;
+  }
+  .brisify-site .rt-nav-menu-list-wrap {
+    max-height: calc(100dvh - 150px);
+    overflow-y: auto;
+  }
+}
+@media (max-width: 767px) {
+  .brisify-site {
+    --large-text-v1--large-text-v1-size: 5.5rem;
+    --large-text-v2--footer-large-text-size: 4rem;
+  }
+}
+@media (max-width: 479px) {
+  .brisify-site {
+    --large-text-v1--large-text-v1-size: 4rem;
+  }
+}
+@media (min-width: 1600px) {
+  .brisify-site {
+    --large-text-v3--large-text-v2-size: 4.5rem;
+    --large-text-v2--footer-large-text-size: 7rem;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .brisify-site *,
+  .brisify-site *::before,
+  .brisify-site *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
