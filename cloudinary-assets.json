@@ -1,0 +1,2692 @@
+{
+  "cloudName": "dj4rfocct",
+  "folder": "wazemtech/veyra",
+  "assets": {
+    "/assets/a97d13ba9b-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_poster.0000000.jpg": {
+      "source": "/assets/a97d13ba9b-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_poster.0000000.jpg",
+      "spellings": [
+        "/assets/a97d13ba9b-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_poster.0000000.jpg"
+      ],
+      "checksum": "c797e499d75f3e22a60b7daa89154c95d7058803277e493907550b6d11110f14",
+      "resourceType": "image",
+      "extension": ".jpg",
+      "publicId": "wazemtech/veyra/refly-generate-a-motion-video-by-this-image-557484_poster-0000000-c797e499d75f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581734/wazemtech/veyra/refly-generate-a-motion-video-by-this-image-557484_poster-0000000-c797e499d75f.jpg",
+      "bytes": 42268,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581734,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581734/wazemtech/veyra/refly-generate-a-motion-video-by-this-image-557484_poster-0000000-c797e499d75f.jpg",
+      "verified": true,
+      "deliveryBytes": 21580,
+      "contentType": "image/webp"
+    },
+    "/assets/134e20ec79-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster.0000000.jpg": {
+      "source": "/assets/134e20ec79-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster.0000000.jpg",
+      "spellings": [
+        "/assets/134e20ec79-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster.0000000.jpg"
+      ],
+      "checksum": "8d2986fc3b4631832254a549b1a2d802aadd4d79403fab1d33fbbdf9264cc3a0",
+      "resourceType": "image",
+      "extension": ".jpg",
+      "publicId": "wazemtech/veyra/5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster-0000000-8d2986fc3b46",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581735/wazemtech/veyra/5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster-0000000-8d2986fc3b46.jpg",
+      "bytes": 147855,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581735,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581735/wazemtech/veyra/5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster-0000000-8d2986fc3b46.jpg",
+      "verified": true,
+      "deliveryBytes": 114286,
+      "contentType": "image/webp"
+    },
+    "/brand/veyra-mark.png": {
+      "source": "/brand/veyra-mark.png",
+      "spellings": [
+        "/brand/veyra-mark.png"
+      ],
+      "checksum": "29f6417769bbc9a47baabf9064bd71ef81fd988fc992e3b41dd3d6e6470d2717",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/veyra/veyra-mark-29f6417769bb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581735/wazemtech/veyra/veyra-mark-29f6417769bb.png",
+      "bytes": 657804,
+      "width": 1254,
+      "height": 1254,
+      "version": 1792581735,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581735/wazemtech/veyra/veyra-mark-29f6417769bb.png",
+      "verified": true,
+      "deliveryBytes": 84114,
+      "contentType": "image/webp"
+    },
+    "/assets/c8243a8a71-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4.mp4": {
+      "source": "/assets/c8243a8a71-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4.mp4",
+      "spellings": [
+        "/assets/c8243a8a71-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4.mp4"
+      ],
+      "checksum": "b2d0003d6fd07c844dec565e55a07b42d1905fa9079f556e26f7ecae17a9e418",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/veyra/e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4-b2d0003d6fd0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581736/wazemtech/veyra/e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4-b2d0003d6fd0.mp4",
+      "bytes": 1221496,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581736,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581736/wazemtech/veyra/e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4-b2d0003d6fd0.mp4",
+      "verified": true,
+      "deliveryBytes": 769606,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/613d7a7e41-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm.webm": {
+      "source": "/assets/613d7a7e41-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm.webm",
+      "spellings": [
+        "/assets/613d7a7e41-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm.webm"
+      ],
+      "checksum": "dc3c55cb5fe0003c570574588ad9846028960d306fb713253150e67e9afe7e51",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/veyra/74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm-dc3c55cb5fe0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581736/wazemtech/veyra/74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm-dc3c55cb5fe0.webm",
+      "bytes": 2363312,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581736,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581736/wazemtech/veyra/74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm-dc3c55cb5fe0.webm",
+      "verified": true,
+      "deliveryBytes": 375555,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/bd98ae0ea8-6a701b99064772c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster.avif": {
+      "source": "/assets/bd98ae0ea8-6a701b99064772c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster.avif",
+      "spellings": [
+        "/assets/bd98ae0ea8-6a701b99064772c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster.avif"
+      ],
+      "checksum": "469240adbbfe598585eab17c1810390ce6dae1ee11e3c9269a0f232394797332",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/72c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster-469240adbbfe",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581739/wazemtech/veyra/72c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster-469240adbbfe.avif",
+      "bytes": 148510,
+      "width": 3120,
+      "height": 1532,
+      "version": 1792581739,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581739/wazemtech/veyra/72c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster-469240adbbfe.avif",
+      "verified": true,
+      "deliveryBytes": 148510,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581739/wazemtech/veyra/72c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster-469240adbbfe.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/9379a33e77-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm.webm": {
+      "source": "/assets/9379a33e77-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm.webm",
+      "spellings": [
+        "/assets/9379a33e77-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm.webm"
+      ],
+      "checksum": "0c03a4066d26d028c4c26ccda2ccf64b54faad727a76ba0566369433a18afa26",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/veyra/3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm-0c03a4066d26",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581740/wazemtech/veyra/3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm-0c03a4066d26.webm",
+      "bytes": 2318912,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581740,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581740/wazemtech/veyra/3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm-0c03a4066d26.webm",
+      "verified": true,
+      "deliveryBytes": 1172179,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/de973d2382-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4.mp4": {
+      "source": "/assets/de973d2382-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4.mp4",
+      "spellings": [
+        "/assets/de973d2382-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4.mp4"
+      ],
+      "checksum": "2784a3bd965568b674bfdb548046317934e543b2b91c39f41fffde10ca06f329",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/veyra/a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4-2784a3bd9655",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581741/wazemtech/veyra/a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4-2784a3bd9655.mp4",
+      "bytes": 2316728,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581741,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581741/wazemtech/veyra/a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4-2784a3bd9655.mp4",
+      "verified": true,
+      "deliveryBytes": 1418750,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/b0aac290e5-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm.webm": {
+      "source": "/assets/b0aac290e5-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm.webm",
+      "spellings": [
+        "/assets/b0aac290e5-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm.webm"
+      ],
+      "checksum": "e1bf962a2674f0411c044f9fa2f53d5ce0303112c4db6bbd5a8f657700c79ef6",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/veyra/c973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm-e1bf962a2674",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581745/wazemtech/veyra/c973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm-e1bf962a2674.webm",
+      "bytes": 2318877,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581745,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581745/wazemtech/veyra/c973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm-e1bf962a2674.webm",
+      "verified": true,
+      "deliveryBytes": 994724,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/e6b0d8f389-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4.mp4": {
+      "source": "/assets/e6b0d8f389-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4.mp4",
+      "spellings": [
+        "/assets/e6b0d8f389-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4.mp4"
+      ],
+      "checksum": "27d433e1fc7a54b9b5f21d703196020bc4f77a5437f0b6312ee131e733db6a3f",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/veyra/ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4-27d433e1fc7a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581745/wazemtech/veyra/ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4-27d433e1fc7a.mp4",
+      "bytes": 2513277,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581745,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581745/wazemtech/veyra/ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4-27d433e1fc7a.mp4",
+      "verified": true,
+      "deliveryBytes": 1506686,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/d355cff05b-6a3e56afb59b6e161471a92c_6e4412499bb7538128a4fe60ddd16008_adroven-footer-linkedin-icon.svg": {
+      "source": "/assets/d355cff05b-6a3e56afb59b6e161471a92c_6e4412499bb7538128a4fe60ddd16008_adroven-footer-linkedin-icon.svg",
+      "spellings": [
+        "/assets/d355cff05b-6a3e56afb59b6e161471a92c_6e4412499bb7538128a4fe60ddd16008_adroven-footer-linkedin-icon.svg"
+      ],
+      "checksum": "416a204bb32000a155e234dacbc45671142acdab3ee7cb7c81482b2cfae78b84",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/92c_6e4412499bb7538128a4fe60ddd16008_adroven-footer-linkedin-icon-416a204bb320",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581745/wazemtech/veyra/92c_6e4412499bb7538128a4fe60ddd16008_adroven-footer-linkedin-icon-416a204bb320.svg",
+      "bytes": 1045,
+      "width": 27,
+      "height": 26,
+      "version": 1792581745,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581745/wazemtech/veyra/92c_6e4412499bb7538128a4fe60ddd16008_adroven-footer-linkedin-icon-416a204bb320.svg",
+      "verified": true,
+      "deliveryBytes": 1045,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/b61797c131-6a3e56afb59b6e161471a92b_4db10be5d5ad6ca6ca6de033022ff3d6_adroven-footer-facebook-icon.svg": {
+      "source": "/assets/b61797c131-6a3e56afb59b6e161471a92b_4db10be5d5ad6ca6ca6de033022ff3d6_adroven-footer-facebook-icon.svg",
+      "spellings": [
+        "/assets/b61797c131-6a3e56afb59b6e161471a92b_4db10be5d5ad6ca6ca6de033022ff3d6_adroven-footer-facebook-icon.svg"
+      ],
+      "checksum": "1e92ea88faa71ce210c1ea45c01f3a36a6118f341322778184df3dd306264b8b",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/92b_4db10be5d5ad6ca6ca6de033022ff3d6_adroven-footer-facebook-icon-1e92ea88faa7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581748/wazemtech/veyra/92b_4db10be5d5ad6ca6ca6de033022ff3d6_adroven-footer-facebook-icon-1e92ea88faa7.svg",
+      "bytes": 506,
+      "width": 16,
+      "height": 27,
+      "version": 1792581748,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581748/wazemtech/veyra/92b_4db10be5d5ad6ca6ca6de033022ff3d6_adroven-footer-facebook-icon-1e92ea88faa7.svg",
+      "verified": true,
+      "deliveryBytes": 506,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/f968b9bc89-6a3e56afb59b6e161471a92d_26a9b9f7425e73d4330e9645d7da6fbc_adroven-footer-x-icon.svg": {
+      "source": "/assets/f968b9bc89-6a3e56afb59b6e161471a92d_26a9b9f7425e73d4330e9645d7da6fbc_adroven-footer-x-icon.svg",
+      "spellings": [
+        "/assets/f968b9bc89-6a3e56afb59b6e161471a92d_26a9b9f7425e73d4330e9645d7da6fbc_adroven-footer-x-icon.svg"
+      ],
+      "checksum": "a12b3f09041e757adda5d83c0435442d550362713d17b0ec3e9f4c7c030cf1ba",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/161471a92d_26a9b9f7425e73d4330e9645d7da6fbc_adroven-footer-x-icon-a12b3f09041e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581749/wazemtech/veyra/161471a92d_26a9b9f7425e73d4330e9645d7da6fbc_adroven-footer-x-icon-a12b3f09041e.svg",
+      "bytes": 1081,
+      "width": 26,
+      "height": 26,
+      "version": 1792581749,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581749/wazemtech/veyra/161471a92d_26a9b9f7425e73d4330e9645d7da6fbc_adroven-footer-x-icon-a12b3f09041e.svg",
+      "verified": true,
+      "deliveryBytes": 1081,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/eb82015b48-6a3b623a3c3f2e8cd23b6fa6_4b60890940da588c98c7172a8b71b42c_client-2.svg": {
+      "source": "/assets/eb82015b48-6a3b623a3c3f2e8cd23b6fa6_4b60890940da588c98c7172a8b71b42c_client-2.svg",
+      "spellings": [
+        "/assets/eb82015b48-6a3b623a3c3f2e8cd23b6fa6_4b60890940da588c98c7172a8b71b42c_client-2.svg"
+      ],
+      "checksum": "9eded0e3c63603d29c4ecfe3d30df9b44947ba545d0d9d67b1b3c5c1e9e2576a",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a3b623a3c3f2e8cd23b6fa6_4b60890940da588c98c7172a8b71b42c_client-2-9eded0e3c636",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581751/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa6_4b60890940da588c98c7172a8b71b42c_client-2-9eded0e3c636.svg",
+      "bytes": 48080,
+      "width": 102,
+      "height": 22,
+      "version": 1792581751,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581751/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa6_4b60890940da588c98c7172a8b71b42c_client-2-9eded0e3c636.svg",
+      "verified": true,
+      "deliveryBytes": 48080,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/cb5b4aa6ca-6a3b623a3c3f2e8cd23b6fa7_1739a838ee7dbe866a9d4425c0975d5e_client-1.svg": {
+      "source": "/assets/cb5b4aa6ca-6a3b623a3c3f2e8cd23b6fa7_1739a838ee7dbe866a9d4425c0975d5e_client-1.svg",
+      "spellings": [
+        "/assets/cb5b4aa6ca-6a3b623a3c3f2e8cd23b6fa7_1739a838ee7dbe866a9d4425c0975d5e_client-1.svg"
+      ],
+      "checksum": "63c3f113da13443a9d0e5011558b62ba29105cbb31bd36da8becc32d07c5171c",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a3b623a3c3f2e8cd23b6fa7_1739a838ee7dbe866a9d4425c0975d5e_client-1-63c3f113da13",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581750/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa7_1739a838ee7dbe866a9d4425c0975d5e_client-1-63c3f113da13.svg",
+      "bytes": 212787,
+      "width": 108,
+      "height": 27,
+      "version": 1792581750,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581750/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa7_1739a838ee7dbe866a9d4425c0975d5e_client-1-63c3f113da13.svg",
+      "verified": true,
+      "deliveryBytes": 212787,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/fb5775a4c2-6a3b623a3c3f2e8cd23b6fa5_d1743bb7b33bf6b64888f46d6e12c037_client-4.svg": {
+      "source": "/assets/fb5775a4c2-6a3b623a3c3f2e8cd23b6fa5_d1743bb7b33bf6b64888f46d6e12c037_client-4.svg",
+      "spellings": [
+        "/assets/fb5775a4c2-6a3b623a3c3f2e8cd23b6fa5_d1743bb7b33bf6b64888f46d6e12c037_client-4.svg"
+      ],
+      "checksum": "485739339e0cf77408fcaec99acddd35d730c8f9e1163154e14b309caa5e2741",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a3b623a3c3f2e8cd23b6fa5_d1743bb7b33bf6b64888f46d6e12c037_client-4-485739339e0c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581753/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa5_d1743bb7b33bf6b64888f46d6e12c037_client-4-485739339e0c.svg",
+      "bytes": 45509,
+      "width": 125,
+      "height": 20,
+      "version": 1792581753,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581753/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa5_d1743bb7b33bf6b64888f46d6e12c037_client-4-485739339e0c.svg",
+      "verified": true,
+      "deliveryBytes": 45509,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/eb50cb90b0-6a3b623a3c3f2e8cd23b6fac_22d482bf3000a90df13ac27196c1e959_client-3.svg": {
+      "source": "/assets/eb50cb90b0-6a3b623a3c3f2e8cd23b6fac_22d482bf3000a90df13ac27196c1e959_client-3.svg",
+      "spellings": [
+        "/assets/eb50cb90b0-6a3b623a3c3f2e8cd23b6fac_22d482bf3000a90df13ac27196c1e959_client-3.svg"
+      ],
+      "checksum": "f3f4e5a1497ac1832ca99247741effe6aac5f899383b742d74111997b3a5a5c4",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a3b623a3c3f2e8cd23b6fac_22d482bf3000a90df13ac27196c1e959_client-3-f3f4e5a1497a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581753/wazemtech/veyra/a3b623a3c3f2e8cd23b6fac_22d482bf3000a90df13ac27196c1e959_client-3-f3f4e5a1497a.svg",
+      "bytes": 146472,
+      "width": 108,
+      "height": 23,
+      "version": 1792581753,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581753/wazemtech/veyra/a3b623a3c3f2e8cd23b6fac_22d482bf3000a90df13ac27196c1e959_client-3-f3f4e5a1497a.svg",
+      "verified": true,
+      "deliveryBytes": 146472,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/efc7fa1898-6a3b623a3c3f2e8cd23b6fa4_47167c9cfc149cd496a5ebce73f408de_client-5.svg": {
+      "source": "/assets/efc7fa1898-6a3b623a3c3f2e8cd23b6fa4_47167c9cfc149cd496a5ebce73f408de_client-5.svg",
+      "spellings": [
+        "/assets/efc7fa1898-6a3b623a3c3f2e8cd23b6fa4_47167c9cfc149cd496a5ebce73f408de_client-5.svg"
+      ],
+      "checksum": "e18d03f53b353410b975b2b554c60374424f9e8c5dd671a3cedc5fab569ef647",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a3b623a3c3f2e8cd23b6fa4_47167c9cfc149cd496a5ebce73f408de_client-5-e18d03f53b35",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581754/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa4_47167c9cfc149cd496a5ebce73f408de_client-5-e18d03f53b35.svg",
+      "bytes": 77408,
+      "width": 46,
+      "height": 38,
+      "version": 1792581754,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581754/wazemtech/veyra/a3b623a3c3f2e8cd23b6fa4_47167c9cfc149cd496a5ebce73f408de_client-5-e18d03f53b35.svg",
+      "verified": true,
+      "deliveryBytes": 77408,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/4efc84db74-6a3b6c8414945682aa663d8d_client-7.svg": {
+      "source": "/assets/4efc84db74-6a3b6c8414945682aa663d8d_client-7.svg",
+      "spellings": [
+        "/assets/4efc84db74-6a3b6c8414945682aa663d8d_client-7.svg"
+      ],
+      "checksum": "41ffbffc50d7ee96d30f028e87b985c13cc13c2e41e7d2457ecbafbf861f39b6",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/4efc84db74-6a3b6c8414945682aa663d8d_client-7-41ffbffc50d7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581754/wazemtech/veyra/4efc84db74-6a3b6c8414945682aa663d8d_client-7-41ffbffc50d7.svg",
+      "bytes": 46416,
+      "width": 95,
+      "height": 23,
+      "version": 1792581754,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581754/wazemtech/veyra/4efc84db74-6a3b6c8414945682aa663d8d_client-7-41ffbffc50d7.svg",
+      "verified": true,
+      "deliveryBytes": 46416,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/898c0f3a71-6a5de4b3ae7b0d3c31a39ea9_pause-button.svg": {
+      "source": "/assets/898c0f3a71-6a5de4b3ae7b0d3c31a39ea9_pause-button.svg",
+      "spellings": [
+        "/assets/898c0f3a71-6a5de4b3ae7b0d3c31a39ea9_pause-button.svg"
+      ],
+      "checksum": "12b2c7cfecc86dfe8ab13e9660ff6de8032a2c816aeb8eaac158db873a13df43",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/898c0f3a71-6a5de4b3ae7b0d3c31a39ea9_pause-button-12b2c7cfecc8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581756/wazemtech/veyra/898c0f3a71-6a5de4b3ae7b0d3c31a39ea9_pause-button-12b2c7cfecc8.svg",
+      "bytes": 259,
+      "width": 22,
+      "height": 21,
+      "version": 1792581756,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581756/wazemtech/veyra/898c0f3a71-6a5de4b3ae7b0d3c31a39ea9_pause-button-12b2c7cfecc8.svg",
+      "verified": true,
+      "deliveryBytes": 259,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/9a8e0adb4b-6a5de4b3cd56089dc7036566_play-button.svg": {
+      "source": "/assets/9a8e0adb4b-6a5de4b3cd56089dc7036566_play-button.svg",
+      "spellings": [
+        "/assets/9a8e0adb4b-6a5de4b3cd56089dc7036566_play-button.svg"
+      ],
+      "checksum": "f5b1b901c703f968413350dbd54c7ff34680df00b267cc955dcfbae603ad1803",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/9a8e0adb4b-6a5de4b3cd56089dc7036566_play-button-f5b1b901c703",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581756/wazemtech/veyra/9a8e0adb4b-6a5de4b3cd56089dc7036566_play-button-f5b1b901c703.svg",
+      "bytes": 315,
+      "width": 15,
+      "height": 20,
+      "version": 1792581756,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581756/wazemtech/veyra/9a8e0adb4b-6a5de4b3cd56089dc7036566_play-button-f5b1b901c703.svg",
+      "verified": true,
+      "deliveryBytes": 315,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/35d1c35a22-6a54763790c3dfa2b78e053e_home-about-dashboard.svg": {
+      "source": "/assets/35d1c35a22-6a54763790c3dfa2b78e053e_home-about-dashboard.svg",
+      "spellings": [
+        "/assets/35d1c35a22-6a54763790c3dfa2b78e053e_home-about-dashboard.svg"
+      ],
+      "checksum": "22651d5aa0cb89dbc12ba323eb2b77b6bdad0a55ad13d08f50bcc687f16a09f4",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/35d1c35a22-6a54763790c3dfa2b78e053e_home-about-dashboard-22651d5aa0cb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581756/wazemtech/veyra/35d1c35a22-6a54763790c3dfa2b78e053e_home-about-dashboard-22651d5aa0cb.svg",
+      "bytes": 33142,
+      "width": 285,
+      "height": 166,
+      "version": 1792581756,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581756/wazemtech/veyra/35d1c35a22-6a54763790c3dfa2b78e053e_home-about-dashboard-22651d5aa0cb.svg",
+      "verified": true,
+      "deliveryBytes": 33142,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/13911224b1-6a5476b0b7f79705585e442e_home-about-dashboard-1.svg": {
+      "source": "/assets/13911224b1-6a5476b0b7f79705585e442e_home-about-dashboard-1.svg",
+      "spellings": [
+        "/assets/13911224b1-6a5476b0b7f79705585e442e_home-about-dashboard-1.svg"
+      ],
+      "checksum": "c2a9a286efc01eb4e7d4d70a2234550f124b2b027a4e53391606ebe8fa9c733b",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/13911224b1-6a5476b0b7f79705585e442e_home-about-dashboard-1-c2a9a286efc0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581757/wazemtech/veyra/13911224b1-6a5476b0b7f79705585e442e_home-about-dashboard-1-c2a9a286efc0.svg",
+      "bytes": 39143,
+      "width": 249,
+      "height": 57,
+      "version": 1792581757,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581757/wazemtech/veyra/13911224b1-6a5476b0b7f79705585e442e_home-about-dashboard-1-c2a9a286efc0.svg",
+      "verified": true,
+      "deliveryBytes": 39143,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/09ef5d4583-6a54882690c3dfa2b7956bce_home-about-refine-phone.avif": {
+      "source": "/assets/09ef5d4583-6a54882690c3dfa2b7956bce_home-about-refine-phone.avif",
+      "spellings": [
+        "/assets/09ef5d4583-6a54882690c3dfa2b7956bce_home-about-refine-phone.avif"
+      ],
+      "checksum": "b7f3a3fd578e75891ac0bbc0767daf23d4dbcc12a158e1ac9db39bb690db5617",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/09ef5d4583-6a54882690c3dfa2b7956bce_home-about-refine-phone-b7f3a3fd578e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/09ef5d4583-6a54882690c3dfa2b7956bce_home-about-refine-phone-b7f3a3fd578e.avif",
+      "bytes": 36632,
+      "width": 356,
+      "height": 491,
+      "version": 1792581759,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581759/wazemtech/veyra/09ef5d4583-6a54882690c3dfa2b7956bce_home-about-refine-phone-b7f3a3fd578e.avif",
+      "verified": true,
+      "deliveryBytes": 17108,
+      "contentType": "image/webp"
+    },
+    "/assets/5ca479cc85-6a5476fdfc939ccc0fbf6026_58afe7f07e6dfbccb4e2cab74f8a868d_home-about-dashboard-2.svg": {
+      "source": "/assets/5ca479cc85-6a5476fdfc939ccc0fbf6026_58afe7f07e6dfbccb4e2cab74f8a868d_home-about-dashboard-2.svg",
+      "spellings": [
+        "/assets/5ca479cc85-6a5476fdfc939ccc0fbf6026_58afe7f07e6dfbccb4e2cab74f8a868d_home-about-dashboard-2.svg"
+      ],
+      "checksum": "359734783ced75ebf0f2ff3ecac5460527c02b125fee1505d1fcf6e0ddd35a1e",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/c0fbf6026_58afe7f07e6dfbccb4e2cab74f8a868d_home-about-dashboard-2-359734783ced",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/c0fbf6026_58afe7f07e6dfbccb4e2cab74f8a868d_home-about-dashboard-2-359734783ced.svg",
+      "bytes": 38633,
+      "width": 249,
+      "height": 57,
+      "version": 1792581759,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/c0fbf6026_58afe7f07e6dfbccb4e2cab74f8a868d_home-about-dashboard-2-359734783ced.svg",
+      "verified": true,
+      "deliveryBytes": 38633,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/209ae9b084-6a548a3dfcb510891c8b762f_home-about-refine-wheel.svg": {
+      "source": "/assets/209ae9b084-6a548a3dfcb510891c8b762f_home-about-refine-wheel.svg",
+      "spellings": [
+        "/assets/209ae9b084-6a548a3dfcb510891c8b762f_home-about-refine-wheel.svg"
+      ],
+      "checksum": "fba6a2ee35738832ca1171f91dd1d003c7513c350c49f4bc15ed46a0cc6bcc44",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/209ae9b084-6a548a3dfcb510891c8b762f_home-about-refine-wheel-fba6a2ee3573",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/209ae9b084-6a548a3dfcb510891c8b762f_home-about-refine-wheel-fba6a2ee3573.svg",
+      "bytes": 1671,
+      "width": 86,
+      "height": 86,
+      "version": 1792581759,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/209ae9b084-6a548a3dfcb510891c8b762f_home-about-refine-wheel-fba6a2ee3573.svg",
+      "verified": true,
+      "deliveryBytes": 1671,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/c90a1b797a-6a548ac3fe09ac6b29257360_home-about-refine-dashboard-3.svg": {
+      "source": "/assets/c90a1b797a-6a548ac3fe09ac6b29257360_home-about-refine-dashboard-3.svg",
+      "spellings": [
+        "/assets/c90a1b797a-6a548ac3fe09ac6b29257360_home-about-refine-dashboard-3.svg"
+      ],
+      "checksum": "7c4c754a1e09b3677bff866d0d8d5ed4f757542ab6a1a0b570064d7014c098cf",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/c90a1b797a-6a548ac3fe09ac6b29257360_home-about-refine-dashboard-3-7c4c754a1e09",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/c90a1b797a-6a548ac3fe09ac6b29257360_home-about-refine-dashboard-3-7c4c754a1e09.svg",
+      "bytes": 188182,
+      "width": 219,
+      "height": 64,
+      "version": 1792581759,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581759/wazemtech/veyra/c90a1b797a-6a548ac3fe09ac6b29257360_home-about-refine-dashboard-3-7c4c754a1e09.svg",
+      "verified": true,
+      "deliveryBytes": 188182,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/570ad10f11-6a54910f9e83058b0424408d_home-about-refine-author-1.avif": {
+      "source": "/assets/570ad10f11-6a54910f9e83058b0424408d_home-about-refine-author-1.avif",
+      "spellings": [
+        "/assets/570ad10f11-6a54910f9e83058b0424408d_home-about-refine-author-1.avif"
+      ],
+      "checksum": "90f81cb561cf3f2e835d6562a936201e7613620e92ad452a17625ffbaab91d27",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/570ad10f11-6a54910f9e83058b0424408d_home-about-refine-author-1-90f81cb561cf",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581762/wazemtech/veyra/570ad10f11-6a54910f9e83058b0424408d_home-about-refine-author-1-90f81cb561cf.avif",
+      "bytes": 2928,
+      "width": 71,
+      "height": 71,
+      "version": 1792581762,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581762/wazemtech/veyra/570ad10f11-6a54910f9e83058b0424408d_home-about-refine-author-1-90f81cb561cf.avif",
+      "verified": true,
+      "deliveryBytes": 1644,
+      "contentType": "image/webp"
+    },
+    "/assets/9535043c93-6a54910fbed6c6d57607d219_home-about-refine-author-5.avif": {
+      "source": "/assets/9535043c93-6a54910fbed6c6d57607d219_home-about-refine-author-5.avif",
+      "spellings": [
+        "/assets/9535043c93-6a54910fbed6c6d57607d219_home-about-refine-author-5.avif"
+      ],
+      "checksum": "6d0186ec037392af0c321a6de2736e5f6a9bc015212d9bbb19dbe163f14da0fd",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/9535043c93-6a54910fbed6c6d57607d219_home-about-refine-author-5-6d0186ec0373",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581762/wazemtech/veyra/9535043c93-6a54910fbed6c6d57607d219_home-about-refine-author-5-6d0186ec0373.avif",
+      "bytes": 2435,
+      "width": 71,
+      "height": 71,
+      "version": 1792581762,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581762/wazemtech/veyra/9535043c93-6a54910fbed6c6d57607d219_home-about-refine-author-5-6d0186ec0373.avif",
+      "verified": true,
+      "deliveryBytes": 1300,
+      "contentType": "image/webp"
+    },
+    "/assets/8bed4b1325-6a548ecba4e27dc22b8042ed_home-about-refine-circle.svg": {
+      "source": "/assets/8bed4b1325-6a548ecba4e27dc22b8042ed_home-about-refine-circle.svg",
+      "spellings": [
+        "/assets/8bed4b1325-6a548ecba4e27dc22b8042ed_home-about-refine-circle.svg"
+      ],
+      "checksum": "e69fff6dbbeae94a321dc365663bcff21dbc9715cb3967e9b9e4beaece7d24cf",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/8bed4b1325-6a548ecba4e27dc22b8042ed_home-about-refine-circle-e69fff6dbbea",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581761/wazemtech/veyra/8bed4b1325-6a548ecba4e27dc22b8042ed_home-about-refine-circle-e69fff6dbbea.svg",
+      "bytes": 164,
+      "width": 68,
+      "height": 68,
+      "version": 1792581761,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581761/wazemtech/veyra/8bed4b1325-6a548ecba4e27dc22b8042ed_home-about-refine-circle-e69fff6dbbea.svg",
+      "verified": true,
+      "deliveryBytes": 164,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/27e5caf8b0-6a548e070238161ef6ac99ab_home-about-refine-dashboard-4.svg": {
+      "source": "/assets/27e5caf8b0-6a548e070238161ef6ac99ab_home-about-refine-dashboard-4.svg",
+      "spellings": [
+        "/assets/27e5caf8b0-6a548e070238161ef6ac99ab_home-about-refine-dashboard-4.svg"
+      ],
+      "checksum": "4da68e7dca6cb7aeb00a601b9b40777c4c2136743f0dbe0453a3c2b971af2981",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/27e5caf8b0-6a548e070238161ef6ac99ab_home-about-refine-dashboard-4-4da68e7dca6c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581761/wazemtech/veyra/27e5caf8b0-6a548e070238161ef6ac99ab_home-about-refine-dashboard-4-4da68e7dca6c.svg",
+      "bytes": 141268,
+      "width": 219,
+      "height": 64,
+      "version": 1792581761,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581761/wazemtech/veyra/27e5caf8b0-6a548e070238161ef6ac99ab_home-about-refine-dashboard-4-4da68e7dca6c.svg",
+      "verified": true,
+      "deliveryBytes": 141268,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/2dc922ad34-6a549110ee7ff7623612b8c6_home-about-refine-author-2.avif": {
+      "source": "/assets/2dc922ad34-6a549110ee7ff7623612b8c6_home-about-refine-author-2.avif",
+      "spellings": [
+        "/assets/2dc922ad34-6a549110ee7ff7623612b8c6_home-about-refine-author-2.avif"
+      ],
+      "checksum": "d3103985b61fb0c3a55ac8eb27c81dd454e219e257887d1b316cb0d9b8e01fd1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/2dc922ad34-6a549110ee7ff7623612b8c6_home-about-refine-author-2-d3103985b61f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581763/wazemtech/veyra/2dc922ad34-6a549110ee7ff7623612b8c6_home-about-refine-author-2-d3103985b61f.avif",
+      "bytes": 2731,
+      "width": 71,
+      "height": 71,
+      "version": 1792581763,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581763/wazemtech/veyra/2dc922ad34-6a549110ee7ff7623612b8c6_home-about-refine-author-2-d3103985b61f.avif",
+      "verified": true,
+      "deliveryBytes": 1376,
+      "contentType": "image/webp"
+    },
+    "/assets/8bbfc41694-6a54910fa7e64d5103aec92d_home-about-refine-author-4.avif": {
+      "source": "/assets/8bbfc41694-6a54910fa7e64d5103aec92d_home-about-refine-author-4.avif",
+      "spellings": [
+        "/assets/8bbfc41694-6a54910fa7e64d5103aec92d_home-about-refine-author-4.avif"
+      ],
+      "checksum": "cc276fa699b9c31beb675c68185a5643039981a743e1ce7cc395bc22fa5101fd",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/8bbfc41694-6a54910fa7e64d5103aec92d_home-about-refine-author-4-cc276fa699b9",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581764/wazemtech/veyra/8bbfc41694-6a54910fa7e64d5103aec92d_home-about-refine-author-4-cc276fa699b9.avif",
+      "bytes": 3008,
+      "width": 70,
+      "height": 70,
+      "version": 1792581764,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581764/wazemtech/veyra/8bbfc41694-6a54910fa7e64d5103aec92d_home-about-refine-author-4-cc276fa699b9.avif",
+      "verified": true,
+      "deliveryBytes": 1722,
+      "contentType": "image/webp"
+    },
+    "/assets/28aa5fedbe-6a54910fddd009e53e153d49_home-about-refine-author-3.avif": {
+      "source": "/assets/28aa5fedbe-6a54910fddd009e53e153d49_home-about-refine-author-3.avif",
+      "spellings": [
+        "/assets/28aa5fedbe-6a54910fddd009e53e153d49_home-about-refine-author-3.avif"
+      ],
+      "checksum": "373808003becd88098737a40266643c862d6afddc828b4b141e74ea2930da673",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/28aa5fedbe-6a54910fddd009e53e153d49_home-about-refine-author-3-373808003bec",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581764/wazemtech/veyra/28aa5fedbe-6a54910fddd009e53e153d49_home-about-refine-author-3-373808003bec.avif",
+      "bytes": 3374,
+      "width": 86,
+      "height": 86,
+      "version": 1792581764,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581764/wazemtech/veyra/28aa5fedbe-6a54910fddd009e53e153d49_home-about-refine-author-3-373808003bec.avif",
+      "verified": true,
+      "deliveryBytes": 1818,
+      "contentType": "image/webp"
+    },
+    "/assets/d775d816e6-6a547d524c8fb6e86907a1e0_home-about-grow-authorr.avif": {
+      "source": "/assets/d775d816e6-6a547d524c8fb6e86907a1e0_home-about-grow-authorr.avif",
+      "spellings": [
+        "/assets/d775d816e6-6a547d524c8fb6e86907a1e0_home-about-grow-authorr.avif"
+      ],
+      "checksum": "3e89e4967df7059ccc55269fad7d66bcdccd2583dbd71b4a71deb6f32446c550",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/d775d816e6-6a547d524c8fb6e86907a1e0_home-about-grow-authorr-3e89e4967df7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581766/wazemtech/veyra/d775d816e6-6a547d524c8fb6e86907a1e0_home-about-grow-authorr-3e89e4967df7.avif",
+      "bytes": 2885,
+      "width": 131,
+      "height": 143,
+      "version": 1792581766,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581766/wazemtech/veyra/d775d816e6-6a547d524c8fb6e86907a1e0_home-about-grow-authorr-3e89e4967df7.avif",
+      "verified": true,
+      "deliveryBytes": 1808,
+      "contentType": "image/webp"
+    },
+    "/assets/4f28cc5a15-6a547c8ce92c95e5de6fa124_home-about-grow-dashboard-1.svg": {
+      "source": "/assets/4f28cc5a15-6a547c8ce92c95e5de6fa124_home-about-grow-dashboard-1.svg",
+      "spellings": [
+        "/assets/4f28cc5a15-6a547c8ce92c95e5de6fa124_home-about-grow-dashboard-1.svg"
+      ],
+      "checksum": "343ec37c38a322e832671dfcf6a547a29ccce367e96efc760b22e2c2ee5c5b57",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/4f28cc5a15-6a547c8ce92c95e5de6fa124_home-about-grow-dashboard-1-343ec37c38a3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581766/wazemtech/veyra/4f28cc5a15-6a547c8ce92c95e5de6fa124_home-about-grow-dashboard-1-343ec37c38a3.svg",
+      "bytes": 21606,
+      "width": 189,
+      "height": 45,
+      "version": 1792581766,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581766/wazemtech/veyra/4f28cc5a15-6a547c8ce92c95e5de6fa124_home-about-grow-dashboard-1-343ec37c38a3.svg",
+      "verified": true,
+      "deliveryBytes": 21606,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/c620b1a7aa-6a547aab0df2b0c05a8db8d1_168e5125172cd68e62dbe51e6f1f8da5_home-about-grow-dashboard.svg": {
+      "source": "/assets/c620b1a7aa-6a547aab0df2b0c05a8db8d1_168e5125172cd68e62dbe51e6f1f8da5_home-about-grow-dashboard.svg",
+      "spellings": [
+        "/assets/c620b1a7aa-6a547aab0df2b0c05a8db8d1_168e5125172cd68e62dbe51e6f1f8da5_home-about-grow-dashboard.svg"
+      ],
+      "checksum": "b9dbfbe58997558087a6d463f357b215fca5b118555975a2c3685b0612396ad3",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/8db8d1_168e5125172cd68e62dbe51e6f1f8da5_home-about-grow-dashboard-b9dbfbe58997",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581764/wazemtech/veyra/8db8d1_168e5125172cd68e62dbe51e6f1f8da5_home-about-grow-dashboard-b9dbfbe58997.svg",
+      "bytes": 15074,
+      "width": 209,
+      "height": 151,
+      "version": 1792581764,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581764/wazemtech/veyra/8db8d1_168e5125172cd68e62dbe51e6f1f8da5_home-about-grow-dashboard-b9dbfbe58997.svg",
+      "verified": true,
+      "deliveryBytes": 15074,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/fd90ea725f-6a54b3cc08b770894f055fb9_33df814c47f4e5d25c2fe8be821800c6_portfolio-circle-mask.avif": {
+      "source": "/assets/fd90ea725f-6a54b3cc08b770894f055fb9_33df814c47f4e5d25c2fe8be821800c6_portfolio-circle-mask.avif",
+      "spellings": [
+        "/assets/fd90ea725f-6a54b3cc08b770894f055fb9_33df814c47f4e5d25c2fe8be821800c6_portfolio-circle-mask.avif"
+      ],
+      "checksum": "33d332563a7fe251166724fd186b297ee7d1595e0fc2ab435c2ad8831b373d49",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/894f055fb9_33df814c47f4e5d25c2fe8be821800c6_portfolio-circle-mask-33d332563a7f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581767/wazemtech/veyra/894f055fb9_33df814c47f4e5d25c2fe8be821800c6_portfolio-circle-mask-33d332563a7f.avif",
+      "bytes": 466,
+      "width": 2826,
+      "height": 2056,
+      "version": 1792581767,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581767/wazemtech/veyra/894f055fb9_33df814c47f4e5d25c2fe8be821800c6_portfolio-circle-mask-33d332563a7f.avif",
+      "verified": true,
+      "deliveryBytes": 154,
+      "contentType": "image/webp"
+    },
+    "/assets/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02.avif": {
+      "source": "/assets/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02.avif",
+      "spellings": [
+        "/assets/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02.avif"
+      ],
+      "checksum": "44bc3051b6304e73cbab7a1090d5dc4d976d0798c3fd86f07c74a6c4d8521ecf",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02-44bc3051b630",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581768/wazemtech/veyra/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02-44bc3051b630.avif",
+      "bytes": 30330,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581768,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581768/wazemtech/veyra/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02-44bc3051b630.avif",
+      "verified": true,
+      "deliveryBytes": 30330,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581768/wazemtech/veyra/48b064bfa7-6a58894315e62d0e4a95ad99_portfolio-medium-02-44bc3051b630.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a5618663d2-6a54841649ee9f2a944427d4_home-about-grow-dashboard-2.svg": {
+      "source": "/assets/a5618663d2-6a54841649ee9f2a944427d4_home-about-grow-dashboard-2.svg",
+      "spellings": [
+        "/assets/a5618663d2-6a54841649ee9f2a944427d4_home-about-grow-dashboard-2.svg"
+      ],
+      "checksum": "120c3932c847f041b591e06110027f93d6d39179463462eb2904ed5cc5804a74",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a5618663d2-6a54841649ee9f2a944427d4_home-about-grow-dashboard-2-120c3932c847",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581767/wazemtech/veyra/a5618663d2-6a54841649ee9f2a944427d4_home-about-grow-dashboard-2-120c3932c847.svg",
+      "bytes": 1104,
+      "width": 52,
+      "height": 56,
+      "version": 1792581767,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581767/wazemtech/veyra/a5618663d2-6a54841649ee9f2a944427d4_home-about-grow-dashboard-2-120c3932c847.svg",
+      "verified": true,
+      "deliveryBytes": 1104,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05.avif": {
+      "source": "/assets/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05.avif",
+      "spellings": [
+        "/assets/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05.avif"
+      ],
+      "checksum": "4dfcb2f126c83b8c306aeb6500c5cda213249fc52406e247841a4b0a1a4bd813",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05-4dfcb2f126c8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581769/wazemtech/veyra/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05-4dfcb2f126c8.avif",
+      "bytes": 67633,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581769,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581769/wazemtech/veyra/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05-4dfcb2f126c8.avif",
+      "verified": true,
+      "deliveryBytes": 67633,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581769/wazemtech/veyra/034cfb3aff-6a58952b70493e572153ca1e_portfolio-medium-05-4dfcb2f126c8.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01.avif": {
+      "source": "/assets/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01.avif",
+      "spellings": [
+        "/assets/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01.avif"
+      ],
+      "checksum": "6ce5825880eb7d19140c78c247cc945115b319e2fbd7855f2aea34dfbc645dca",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01-6ce5825880eb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581769/wazemtech/veyra/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01-6ce5825880eb.avif",
+      "bytes": 9612,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581769,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581769/wazemtech/veyra/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01-6ce5825880eb.avif",
+      "verified": true,
+      "deliveryBytes": 9612,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581769/wazemtech/veyra/b0c8d08bec-6a5895f90049035f3dfd2aa7_portfolio-medium-01-6ce5825880eb.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2.avif": {
+      "source": "/assets/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2.avif",
+      "spellings": [
+        "/assets/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2.avif"
+      ],
+      "checksum": "dbe4951796403249a35f48a7a5b0e92826ec535513fa2390e2497add1693777e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2-dbe495179640",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581770/wazemtech/veyra/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2-dbe495179640.avif",
+      "bytes": 78934,
+      "width": 1008,
+      "height": 1106,
+      "version": 1792581770,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581770/wazemtech/veyra/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2-dbe495179640.avif",
+      "verified": true,
+      "deliveryBytes": 78934,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581770/wazemtech/veyra/1d0650e31c-6a54d919a06b16ffe141a2d3_home-service-image-2-dbe495179640.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4.avif": {
+      "source": "/assets/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4.avif",
+      "spellings": [
+        "/assets/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4.avif"
+      ],
+      "checksum": "42c42ae1a8ff523ba2dc09d39970a367380a8b5e837d80ac50656016ad051579",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4-42c42ae1a8ff",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581770/wazemtech/veyra/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4-42c42ae1a8ff.avif",
+      "bytes": 111419,
+      "width": 1008,
+      "height": 1106,
+      "version": 1792581770,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581770/wazemtech/veyra/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4-42c42ae1a8ff.avif",
+      "verified": true,
+      "deliveryBytes": 111419,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581770/wazemtech/veyra/d8457b9957-6a54d9586056f57508214c6c_home-service-image-4-42c42ae1a8ff.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6.avif": {
+      "source": "/assets/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6.avif",
+      "spellings": [
+        "/assets/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6.avif"
+      ],
+      "checksum": "47b04427f9cd310100947f1bc4196b098ad91e0f05b6c82ba17af280758791ca",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6-47b04427f9cd",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581771/wazemtech/veyra/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6-47b04427f9cd.avif",
+      "bytes": 143705,
+      "width": 1008,
+      "height": 1106,
+      "version": 1792581771,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581771/wazemtech/veyra/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6-47b04427f9cd.avif",
+      "verified": true,
+      "deliveryBytes": 143705,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581771/wazemtech/veyra/4e1df2ab55-6a54d9cab768fad8c4acf26f_home-service-image-6-47b04427f9cd.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/197493a127-6a3e74520f883bbaf424c89a_b0703cc685ff1e416db689944273a38d_hero-round-button.svg": {
+      "source": "/assets/197493a127-6a3e74520f883bbaf424c89a_b0703cc685ff1e416db689944273a38d_hero-round-button.svg",
+      "spellings": [
+        "/assets/197493a127-6a3e74520f883bbaf424c89a_b0703cc685ff1e416db689944273a38d_hero-round-button.svg"
+      ],
+      "checksum": "e7389d7f95fccb3a913b015b1e930d8c813682d99ddf6f537da41f83bfeccc89",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/883bbaf424c89a_b0703cc685ff1e416db689944273a38d_hero-round-button-e7389d7f95fc",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581770/wazemtech/veyra/883bbaf424c89a_b0703cc685ff1e416db689944273a38d_hero-round-button-e7389d7f95fc.svg",
+      "bytes": 12566,
+      "width": 179,
+      "height": 175,
+      "version": 1792581770,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581770/wazemtech/veyra/883bbaf424c89a_b0703cc685ff1e416db689944273a38d_hero-round-button-e7389d7f95fc.svg",
+      "verified": true,
+      "deliveryBytes": 12566,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4.avif": {
+      "source": "/assets/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4.avif",
+      "spellings": [
+        "/assets/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4.avif"
+      ],
+      "checksum": "9032dce3d4de40150808039556a95a30579870448b0f76891c3c338ac7f0f902",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4-9032dce3d4de",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581772/wazemtech/veyra/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4-9032dce3d4de.avif",
+      "bytes": 80851,
+      "width": 1008,
+      "height": 1106,
+      "version": 1792581772,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581772/wazemtech/veyra/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4-9032dce3d4de.avif",
+      "verified": true,
+      "deliveryBytes": 80851,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581772/wazemtech/veyra/4402a2cffd-6a54c264edf7ca88cdcddcf1_icon-anchor-4-9032dce3d4de.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3.avif": {
+      "source": "/assets/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3.avif",
+      "spellings": [
+        "/assets/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3.avif"
+      ],
+      "checksum": "33317ee99c2b9e5a50e3ae1bdc43a329f4570600f9abcfb0ec4e4f0883550d2a",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3-33317ee99c2b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581773/wazemtech/veyra/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3-33317ee99c2b.avif",
+      "bytes": 32466,
+      "width": 1008,
+      "height": 1106,
+      "version": 1792581773,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581773/wazemtech/veyra/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3-33317ee99c2b.avif",
+      "verified": true,
+      "deliveryBytes": 32466,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581773/wazemtech/veyra/f205dd3582-6a54d957b662e7aa384691a3_home-service-image-3-33317ee99c2b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5.avif": {
+      "source": "/assets/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5.avif",
+      "spellings": [
+        "/assets/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5.avif"
+      ],
+      "checksum": "588de808c15bb0cc228c88e0ac5c45a79255793d307a06bc352b6e3086edd866",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5-588de808c15b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581773/wazemtech/veyra/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5-588de808c15b.avif",
+      "bytes": 34271,
+      "width": 1008,
+      "height": 1106,
+      "version": 1792581773,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581773/wazemtech/veyra/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5-588de808c15b.avif",
+      "verified": true,
+      "deliveryBytes": 34271,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581773/wazemtech/veyra/8493931479-6a54d9876709f408a2fe45f7_home-service-image-5-588de808c15b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/25f6d697dc-6a5625e6b264b602d7708492_fbf4a254b9e4967ebe81457677a05201_home-about-icon-1.svg": {
+      "source": "/assets/25f6d697dc-6a5625e6b264b602d7708492_fbf4a254b9e4967ebe81457677a05201_home-about-icon-1.svg",
+      "spellings": [
+        "/assets/25f6d697dc-6a5625e6b264b602d7708492_fbf4a254b9e4967ebe81457677a05201_home-about-icon-1.svg"
+      ],
+      "checksum": "d2e599f2c5e0df57b2db08b409ca34a2f6c058990bbfb50f769481ea1af59c75",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/64b602d7708492_fbf4a254b9e4967ebe81457677a05201_home-about-icon-1-d2e599f2c5e0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581774/wazemtech/veyra/64b602d7708492_fbf4a254b9e4967ebe81457677a05201_home-about-icon-1-d2e599f2c5e0.svg",
+      "bytes": 796,
+      "width": 51,
+      "height": 42,
+      "version": 1792581774,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581774/wazemtech/veyra/64b602d7708492_fbf4a254b9e4967ebe81457677a05201_home-about-icon-1-d2e599f2c5e0.svg",
+      "verified": true,
+      "deliveryBytes": 796,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/b0e2af0d34-6a560f1bfe8a0fc01e6a7ec7_portfolio-list-icon.svg": {
+      "source": "/assets/b0e2af0d34-6a560f1bfe8a0fc01e6a7ec7_portfolio-list-icon.svg",
+      "spellings": [
+        "/assets/b0e2af0d34-6a560f1bfe8a0fc01e6a7ec7_portfolio-list-icon.svg"
+      ],
+      "checksum": "5ec503aee846819e5b162bb6be45e4352d9245653fc10968fafcf63ba2f1b9b2",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/b0e2af0d34-6a560f1bfe8a0fc01e6a7ec7_portfolio-list-icon-5ec503aee846",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581773/wazemtech/veyra/b0e2af0d34-6a560f1bfe8a0fc01e6a7ec7_portfolio-list-icon-5ec503aee846.svg",
+      "bytes": 721,
+      "width": 20,
+      "height": 21,
+      "version": 1792581773,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581773/wazemtech/veyra/b0e2af0d34-6a560f1bfe8a0fc01e6a7ec7_portfolio-list-icon-5ec503aee846.svg",
+      "verified": true,
+      "deliveryBytes": 721,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/dc5d67d8b8-6a5625e766935bdf916a13e2_0ea9522361bb959a84631bfc5e9dc2f4_home-about-icon-2.svg": {
+      "source": "/assets/dc5d67d8b8-6a5625e766935bdf916a13e2_0ea9522361bb959a84631bfc5e9dc2f4_home-about-icon-2.svg",
+      "spellings": [
+        "/assets/dc5d67d8b8-6a5625e766935bdf916a13e2_0ea9522361bb959a84631bfc5e9dc2f4_home-about-icon-2.svg"
+      ],
+      "checksum": "ae6523bb38b1d0427ca84cac77387722a74df7b97ee37f5d0be40f410d40db75",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/935bdf916a13e2_0ea9522361bb959a84631bfc5e9dc2f4_home-about-icon-2-ae6523bb38b1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581774/wazemtech/veyra/935bdf916a13e2_0ea9522361bb959a84631bfc5e9dc2f4_home-about-icon-2-ae6523bb38b1.svg",
+      "bytes": 1295,
+      "width": 38,
+      "height": 42,
+      "version": 1792581774,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581774/wazemtech/veyra/935bdf916a13e2_0ea9522361bb959a84631bfc5e9dc2f4_home-about-icon-2-ae6523bb38b1.svg",
+      "verified": true,
+      "deliveryBytes": 1295,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/126383dff4-6a5625e6f58a1589b68804cc_32344e3245c5ae3b77ec1e8c987401dc_home-about-icon-4.svg": {
+      "source": "/assets/126383dff4-6a5625e6f58a1589b68804cc_32344e3245c5ae3b77ec1e8c987401dc_home-about-icon-4.svg",
+      "spellings": [
+        "/assets/126383dff4-6a5625e6f58a1589b68804cc_32344e3245c5ae3b77ec1e8c987401dc_home-about-icon-4.svg"
+      ],
+      "checksum": "15cde50b2a98c1afb87ad4a89dfea9188e1163f979e30d0d0285ae802a6e6afb",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/8a1589b68804cc_32344e3245c5ae3b77ec1e8c987401dc_home-about-icon-4-15cde50b2a98",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581775/wazemtech/veyra/8a1589b68804cc_32344e3245c5ae3b77ec1e8c987401dc_home-about-icon-4-15cde50b2a98.svg",
+      "bytes": 990,
+      "width": 42,
+      "height": 42,
+      "version": 1792581775,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581775/wazemtech/veyra/8a1589b68804cc_32344e3245c5ae3b77ec1e8c987401dc_home-about-icon-4-15cde50b2a98.svg",
+      "verified": true,
+      "deliveryBytes": 990,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/7bc2da12ab-6a5625e6624fe28cd69f9dcf_8e361db198a96e7bea2b4b183f24fc07_home-about-icon-3.svg": {
+      "source": "/assets/7bc2da12ab-6a5625e6624fe28cd69f9dcf_8e361db198a96e7bea2b4b183f24fc07_home-about-icon-3.svg",
+      "spellings": [
+        "/assets/7bc2da12ab-6a5625e6624fe28cd69f9dcf_8e361db198a96e7bea2b4b183f24fc07_home-about-icon-3.svg"
+      ],
+      "checksum": "2328377dfc7b7083343e4455ff15f6d77237bf80eaf8d78626b648a5717fbe34",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/4fe28cd69f9dcf_8e361db198a96e7bea2b4b183f24fc07_home-about-icon-3-2328377dfc7b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581775/wazemtech/veyra/4fe28cd69f9dcf_8e361db198a96e7bea2b4b183f24fc07_home-about-icon-3-2328377dfc7b.svg",
+      "bytes": 4316,
+      "width": 42,
+      "height": 42,
+      "version": 1792581775,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581775/wazemtech/veyra/4fe28cd69f9dcf_8e361db198a96e7bea2b4b183f24fc07_home-about-icon-3-2328377dfc7b.svg",
+      "verified": true,
+      "deliveryBytes": 4316,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/c4eba4b57d-6a3d2175371dfbcd190f3432_Ellipse-7.svg": {
+      "source": "/assets/c4eba4b57d-6a3d2175371dfbcd190f3432_Ellipse-7.svg",
+      "spellings": [
+        "/assets/c4eba4b57d-6a3d2175371dfbcd190f3432_Ellipse-7.svg"
+      ],
+      "checksum": "d14b596863b1408aea6aae65eaae2d49ae86310fdb2834af44723e0e7148015e",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/c4eba4b57d-6a3d2175371dfbcd190f3432_Ellipse-7-d14b596863b1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581777/wazemtech/veyra/c4eba4b57d-6a3d2175371dfbcd190f3432_Ellipse-7-d14b596863b1.svg",
+      "bytes": 144,
+      "width": 4,
+      "height": 4,
+      "version": 1792581777,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581777/wazemtech/veyra/c4eba4b57d-6a3d2175371dfbcd190f3432_Ellipse-7-d14b596863b1.svg",
+      "verified": true,
+      "deliveryBytes": 144,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/cc4365b02b-6a57111b825c9b71c096f2fb_frame-1597885362.avif": {
+      "source": "/assets/cc4365b02b-6a57111b825c9b71c096f2fb_frame-1597885362.avif",
+      "spellings": [
+        "/assets/cc4365b02b-6a57111b825c9b71c096f2fb_frame-1597885362.avif"
+      ],
+      "checksum": "7819805d027a96507c5a3d1561ee70b2c17686d07e43ddfc7e548b7b0e07ea48",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/cc4365b02b-6a57111b825c9b71c096f2fb_frame-1597885362-7819805d027a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581778/wazemtech/veyra/cc4365b02b-6a57111b825c9b71c096f2fb_frame-1597885362-7819805d027a.avif",
+      "bytes": 4630,
+      "width": 120,
+      "height": 120,
+      "version": 1792581778,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581778/wazemtech/veyra/cc4365b02b-6a57111b825c9b71c096f2fb_frame-1597885362-7819805d027a.avif",
+      "verified": true,
+      "deliveryBytes": 2210,
+      "contentType": "image/webp"
+    },
+    "/assets/456cf47ce4-6a3e0d7707493502bbd182a8_Ellipse-white.svg": {
+      "source": "/assets/456cf47ce4-6a3e0d7707493502bbd182a8_Ellipse-white.svg",
+      "spellings": [
+        "/assets/456cf47ce4-6a3e0d7707493502bbd182a8_Ellipse-white.svg"
+      ],
+      "checksum": "a3e0f2bdc5d371274b9c427ccb66d6c5cd008ab2d0b7b8afd8be769500c1131c",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/456cf47ce4-6a3e0d7707493502bbd182a8_Ellipse-white-a3e0f2bdc5d3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581777/wazemtech/veyra/456cf47ce4-6a3e0d7707493502bbd182a8_Ellipse-white-a3e0f2bdc5d3.svg",
+      "bytes": 142,
+      "width": 4,
+      "height": 4,
+      "version": 1792581777,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581777/wazemtech/veyra/456cf47ce4-6a3e0d7707493502bbd182a8_Ellipse-white-a3e0f2bdc5d3.svg",
+      "verified": true,
+      "deliveryBytes": 142,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/cdd4c3e38d-6a57111b481519a67cd30abb_frame-1597885204.avif": {
+      "source": "/assets/cdd4c3e38d-6a57111b481519a67cd30abb_frame-1597885204.avif",
+      "spellings": [
+        "/assets/cdd4c3e38d-6a57111b481519a67cd30abb_frame-1597885204.avif"
+      ],
+      "checksum": "08b53b6af355c1f9422a393a4ea87b080ded1302fafe54524f6c3cb5773025ec",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/cdd4c3e38d-6a57111b481519a67cd30abb_frame-1597885204-08b53b6af355",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581778/wazemtech/veyra/cdd4c3e38d-6a57111b481519a67cd30abb_frame-1597885204-08b53b6af355.avif",
+      "bytes": 4439,
+      "width": 120,
+      "height": 120,
+      "version": 1792581778,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581778/wazemtech/veyra/cdd4c3e38d-6a57111b481519a67cd30abb_frame-1597885204-08b53b6af355.avif",
+      "verified": true,
+      "deliveryBytes": 2304,
+      "contentType": "image/webp"
+    },
+    "/assets/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1.avif": {
+      "source": "/assets/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1.avif",
+      "spellings": [
+        "/assets/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1.avif"
+      ],
+      "checksum": "cc29372cc673893b1a4c96de76ece0878daa8a8f3f9fb89a37414a208187728e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1-cc29372cc673",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581778/wazemtech/veyra/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1-cc29372cc673.avif",
+      "bytes": 10656,
+      "width": 1082,
+      "height": 650,
+      "version": 1792581778,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581778/wazemtech/veyra/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1-cc29372cc673.avif",
+      "verified": true,
+      "deliveryBytes": 10656,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581778/wazemtech/veyra/c44cb2ebbc-6a7026db6603b394b4e241b7_testi-image-1-cc29372cc673.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/d47c8a1e4f-6a57111bf9c3e0c7ffef4c7e_frame-1597885363.avif": {
+      "source": "/assets/d47c8a1e4f-6a57111bf9c3e0c7ffef4c7e_frame-1597885363.avif",
+      "spellings": [
+        "/assets/d47c8a1e4f-6a57111bf9c3e0c7ffef4c7e_frame-1597885363.avif"
+      ],
+      "checksum": "c1a74e72a24198b2f6aeb6e73ec36ba01527f8b6cdacad4f9a8ff963218db385",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/d47c8a1e4f-6a57111bf9c3e0c7ffef4c7e_frame-1597885363-c1a74e72a241",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581779/wazemtech/veyra/d47c8a1e4f-6a57111bf9c3e0c7ffef4c7e_frame-1597885363-c1a74e72a241.avif",
+      "bytes": 5095,
+      "width": 120,
+      "height": 120,
+      "version": 1792581779,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581779/wazemtech/veyra/d47c8a1e4f-6a57111bf9c3e0c7ffef4c7e_frame-1597885363-c1a74e72a241.avif",
+      "verified": true,
+      "deliveryBytes": 2430,
+      "contentType": "image/webp"
+    },
+    "/assets/8e78b15759-6a57111b9703e682c5660e0b_frame-1597885364.avif": {
+      "source": "/assets/8e78b15759-6a57111b9703e682c5660e0b_frame-1597885364.avif",
+      "spellings": [
+        "/assets/8e78b15759-6a57111b9703e682c5660e0b_frame-1597885364.avif"
+      ],
+      "checksum": "4ac2c38877e8a9d9950ef9bbddec345e0e32683702c39932e9acf3484470206e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/8e78b15759-6a57111b9703e682c5660e0b_frame-1597885364-4ac2c38877e8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581780/wazemtech/veyra/8e78b15759-6a57111b9703e682c5660e0b_frame-1597885364-4ac2c38877e8.avif",
+      "bytes": 5413,
+      "width": 120,
+      "height": 120,
+      "version": 1792581780,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581780/wazemtech/veyra/8e78b15759-6a57111b9703e682c5660e0b_frame-1597885364-4ac2c38877e8.avif",
+      "verified": true,
+      "deliveryBytes": 2854,
+      "contentType": "image/webp"
+    },
+    "/assets/d04dbff877-6a57111b61f12e9fdd3ef7e6_frame-1597885368.avif": {
+      "source": "/assets/d04dbff877-6a57111b61f12e9fdd3ef7e6_frame-1597885368.avif",
+      "spellings": [
+        "/assets/d04dbff877-6a57111b61f12e9fdd3ef7e6_frame-1597885368.avif"
+      ],
+      "checksum": "7535b2bd050b743cd617b70c0ad37d9ac40b939896d6a3c8b896deba64f8a584",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/d04dbff877-6a57111b61f12e9fdd3ef7e6_frame-1597885368-7535b2bd050b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581780/wazemtech/veyra/d04dbff877-6a57111b61f12e9fdd3ef7e6_frame-1597885368-7535b2bd050b.avif",
+      "bytes": 5087,
+      "width": 120,
+      "height": 120,
+      "version": 1792581780,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581780/wazemtech/veyra/d04dbff877-6a57111b61f12e9fdd3ef7e6_frame-1597885368-7535b2bd050b.avif",
+      "verified": true,
+      "deliveryBytes": 2720,
+      "contentType": "image/webp"
+    },
+    "/assets/9d940184bd-6a57168eccb0b5ae96c5563f_37ee9617f9975a8f4a024f72b3ec0a4a_cta-image.avif": {
+      "source": "/assets/9d940184bd-6a57168eccb0b5ae96c5563f_37ee9617f9975a8f4a024f72b3ec0a4a_cta-image.avif",
+      "spellings": [
+        "/assets/9d940184bd-6a57168eccb0b5ae96c5563f_37ee9617f9975a8f4a024f72b3ec0a4a_cta-image.avif"
+      ],
+      "checksum": "05ca7065da06d75e1298c110ed717bb989b4e3c5c3f84a00fc8e00f6e3eb0ebf",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/57168eccb0b5ae96c5563f_37ee9617f9975a8f4a024f72b3ec0a4a_cta-image-05ca7065da06",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581780/wazemtech/veyra/57168eccb0b5ae96c5563f_37ee9617f9975a8f4a024f72b3ec0a4a_cta-image-05ca7065da06.avif",
+      "bytes": 40112,
+      "width": 3840,
+      "height": 1912,
+      "version": 1792581780,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581780/wazemtech/veyra/57168eccb0b5ae96c5563f_37ee9617f9975a8f4a024f72b3ec0a4a_cta-image-05ca7065da06.avif",
+      "verified": true,
+      "deliveryBytes": 31912,
+      "contentType": "image/webp"
+    },
+    "/assets/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2.avif": {
+      "source": "/assets/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2.avif",
+      "spellings": [
+        "/assets/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2.avif"
+      ],
+      "checksum": "eea71843aeeb03dc2cdb528026e24b83656d734ae40d9f102d27c44312c6c267",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2-eea71843aeeb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581780/wazemtech/veyra/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2-eea71843aeeb.avif",
+      "bytes": 18019,
+      "width": 1082,
+      "height": 690,
+      "version": 1792581780,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581780/wazemtech/veyra/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2-eea71843aeeb.avif",
+      "verified": true,
+      "deliveryBytes": 18019,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581780/wazemtech/veyra/85fc33b94b-6a7026db833fbb785363a82b_testi-image-2-eea71843aeeb.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002.avif": {
+      "source": "/assets/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002.avif",
+      "spellings": [
+        "/assets/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002.avif"
+      ],
+      "checksum": "b33918456e0b523195a069b10021f2c3450c0ea0de7b8e4eb6b7283b4d1eac0b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002-b33918456e0b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581781/wazemtech/veyra/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002-b33918456e0b.avif",
+      "bytes": 106838,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581781,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581781/wazemtech/veyra/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002-b33918456e0b.avif",
+      "verified": true,
+      "deliveryBytes": 106838,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581781/wazemtech/veyra/000d8c1967-6a61b26df0b80654705df955_portfolio-small-002-b33918456e0b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001.avif": {
+      "source": "/assets/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001.avif",
+      "spellings": [
+        "/assets/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001.avif"
+      ],
+      "checksum": "622a870a327421f5d0b8227d72b855212edf11624c72d76b7fad436b73b2e80b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001-622a870a3274",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581782/wazemtech/veyra/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001-622a870a3274.avif",
+      "bytes": 27022,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581782,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581782/wazemtech/veyra/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001-622a870a3274.avif",
+      "verified": true,
+      "deliveryBytes": 27022,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581782/wazemtech/veyra/41853d3b18-6a61b1ee312a51df7813286a_portfolio-small-001-622a870a3274.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06.avif": {
+      "source": "/assets/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06.avif",
+      "spellings": [
+        "/assets/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06.avif"
+      ],
+      "checksum": "9cb4432bc01ecaee78b1ccc9e6e225e784b72026014abb171574b5f3f54f8830",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06-9cb4432bc01e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581782/wazemtech/veyra/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06-9cb4432bc01e.avif",
+      "bytes": 36449,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581782,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581782/wazemtech/veyra/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06-9cb4432bc01e.avif",
+      "verified": true,
+      "deliveryBytes": 36449,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581782/wazemtech/veyra/a58175f3e3-6a5df6e004667f6a18fda947_blog-medium-06-9cb4432bc01e.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7.avif": {
+      "source": "/assets/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7.avif",
+      "spellings": [
+        "/assets/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7.avif"
+      ],
+      "checksum": "212c94177f4191adcad3dbb288e0755879a31461819b1fa0452c41157cd21e4c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7-212c94177f41",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581782/wazemtech/veyra/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7-212c94177f41.avif",
+      "bytes": 89740,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581782,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581782/wazemtech/veyra/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7-212c94177f41.avif",
+      "verified": true,
+      "deliveryBytes": 89740,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581782/wazemtech/veyra/5b0676e6c6-6a4e1a3503f3dd8a86b55c5a_blog-medium-7-212c94177f41.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/0d58ceec6c-6a43572068cf2d8db025d281_about-service-image.avif": {
+      "source": "/assets/0d58ceec6c-6a43572068cf2d8db025d281_about-service-image.avif",
+      "spellings": [
+        "/assets/0d58ceec6c-6a43572068cf2d8db025d281_about-service-image.avif"
+      ],
+      "checksum": "2ecab88f20fc978011e5ed96df1e18cf098e381916f1828336fe834f9eeb6c11",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/0d58ceec6c-6a43572068cf2d8db025d281_about-service-image-2ecab88f20fc",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581784/wazemtech/veyra/0d58ceec6c-6a43572068cf2d8db025d281_about-service-image-2ecab88f20fc.avif",
+      "bytes": 133957,
+      "width": 3600,
+      "height": 1800,
+      "version": 1792581784,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581784/wazemtech/veyra/0d58ceec6c-6a43572068cf2d8db025d281_about-service-image-2ecab88f20fc.avif",
+      "verified": true,
+      "deliveryBytes": 114074,
+      "contentType": "image/webp"
+    },
+    "/assets/1d030954cb-6a4391d89834280c731ecb59_team-1.avif": {
+      "source": "/assets/1d030954cb-6a4391d89834280c731ecb59_team-1.avif",
+      "spellings": [
+        "/assets/1d030954cb-6a4391d89834280c731ecb59_team-1.avif"
+      ],
+      "checksum": "f71bdef71c39de4c9d61fde99d9e4fac37a149f0bd067dad58254c994f043773",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/1d030954cb-6a4391d89834280c731ecb59_team-1-f71bdef71c39",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581785/wazemtech/veyra/1d030954cb-6a4391d89834280c731ecb59_team-1-f71bdef71c39.avif",
+      "bytes": 52337,
+      "width": 864,
+      "height": 1186,
+      "version": 1792581785,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581785/wazemtech/veyra/1d030954cb-6a4391d89834280c731ecb59_team-1-f71bdef71c39.avif",
+      "verified": true,
+      "deliveryBytes": 51838,
+      "contentType": "image/webp"
+    },
+    "/assets/a06aad935e-6a4391d826ab2f5ce056fcd6_team-2.avif": {
+      "source": "/assets/a06aad935e-6a4391d826ab2f5ce056fcd6_team-2.avif",
+      "spellings": [
+        "/assets/a06aad935e-6a4391d826ab2f5ce056fcd6_team-2.avif"
+      ],
+      "checksum": "8e65723969effefe57acfb0f97a5ee67921014a5c99b6dd9ece60c12d39cdbf8",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/a06aad935e-6a4391d826ab2f5ce056fcd6_team-2-8e65723969ef",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581785/wazemtech/veyra/a06aad935e-6a4391d826ab2f5ce056fcd6_team-2-8e65723969ef.avif",
+      "bytes": 58799,
+      "width": 864,
+      "height": 1186,
+      "version": 1792581785,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581785/wazemtech/veyra/a06aad935e-6a4391d826ab2f5ce056fcd6_team-2-8e65723969ef.avif",
+      "verified": true,
+      "deliveryBytes": 57720,
+      "contentType": "image/webp"
+    },
+    "/assets/ed705f05d6-6a4391d875601fc24674d140_team-3.avif": {
+      "source": "/assets/ed705f05d6-6a4391d875601fc24674d140_team-3.avif",
+      "spellings": [
+        "/assets/ed705f05d6-6a4391d875601fc24674d140_team-3.avif"
+      ],
+      "checksum": "0160aa65d9740f382b89f88583dbe9b8cb13ccba7013ff68084bfa420503a5c8",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/ed705f05d6-6a4391d875601fc24674d140_team-3-0160aa65d974",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581786/wazemtech/veyra/ed705f05d6-6a4391d875601fc24674d140_team-3-0160aa65d974.avif",
+      "bytes": 64995,
+      "width": 864,
+      "height": 1186,
+      "version": 1792581786,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581786/wazemtech/veyra/ed705f05d6-6a4391d875601fc24674d140_team-3-0160aa65d974.avif",
+      "verified": true,
+      "deliveryBytes": 64995,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581786/wazemtech/veyra/ed705f05d6-6a4391d875601fc24674d140_team-3-0160aa65d974.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/9acac9c0b9-6a438cb3a5584c5f90f57748_team-phone-icon.svg": {
+      "source": "/assets/9acac9c0b9-6a438cb3a5584c5f90f57748_team-phone-icon.svg",
+      "spellings": [
+        "/assets/9acac9c0b9-6a438cb3a5584c5f90f57748_team-phone-icon.svg"
+      ],
+      "checksum": "4a972adb219f278dcf9c797a00f5a241b0ca9aeff5520d6c437cb4109b0c9df6",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/9acac9c0b9-6a438cb3a5584c5f90f57748_team-phone-icon-4a972adb219f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581785/wazemtech/veyra/9acac9c0b9-6a438cb3a5584c5f90f57748_team-phone-icon-4a972adb219f.svg",
+      "bytes": 1503,
+      "width": 25,
+      "height": 25,
+      "version": 1792581785,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581785/wazemtech/veyra/9acac9c0b9-6a438cb3a5584c5f90f57748_team-phone-icon-4a972adb219f.svg",
+      "verified": true,
+      "deliveryBytes": 1503,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4.avif": {
+      "source": "/assets/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4.avif",
+      "spellings": [
+        "/assets/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4.avif"
+      ],
+      "checksum": "f413fca9137764231210e404c116e9ffef5b0244272fd488762396a3d361f168",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4-f413fca91377",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581786/wazemtech/veyra/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4-f413fca91377.avif",
+      "bytes": 48921,
+      "width": 864,
+      "height": 1186,
+      "version": 1792581786,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581786/wazemtech/veyra/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4-f413fca91377.avif",
+      "verified": true,
+      "deliveryBytes": 48921,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581786/wazemtech/veyra/5b9042ca5c-6a4391d8a33d77cc0e93d8a1_team-4-f413fca91377.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/123c0b40b5-6a5773186d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image.avif": {
+      "source": "/assets/123c0b40b5-6a5773186d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image.avif",
+      "spellings": [
+        "/assets/123c0b40b5-6a5773186d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image.avif"
+      ],
+      "checksum": "978ea148c2f34aafb7cc6051c8473a79fcb0d9b972b10503b2ffee084056b424",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/86d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image-978ea148c2f3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581787/wazemtech/veyra/86d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image-978ea148c2f3.avif",
+      "bytes": 39658,
+      "width": 3120,
+      "height": 1526,
+      "version": 1792581787,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581787/wazemtech/veyra/86d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image-978ea148c2f3.avif",
+      "verified": true,
+      "deliveryBytes": 39658,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581787/wazemtech/veyra/86d572d922209e4cb_18997a9a583eb1954673ecfce9cf75c4_cta-2-bg-image-978ea148c2f3.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/d8571af2c6-6a66e4f84710f389c758734e_3ae0526e68c98f310fdc5c609b1e4966_client-logo-01-dark.avif": {
+      "source": "/assets/d8571af2c6-6a66e4f84710f389c758734e_3ae0526e68c98f310fdc5c609b1e4966_client-logo-01-dark.avif",
+      "spellings": [
+        "/assets/d8571af2c6-6a66e4f84710f389c758734e_3ae0526e68c98f310fdc5c609b1e4966_client-logo-01-dark.avif"
+      ],
+      "checksum": "e50a7ab79fe8bb8f392538540d260a3d5bb58b9716c650f2383101d121203950",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/f389c758734e_3ae0526e68c98f310fdc5c609b1e4966_client-logo-01-dark-e50a7ab79fe8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581788/wazemtech/veyra/f389c758734e_3ae0526e68c98f310fdc5c609b1e4966_client-logo-01-dark-e50a7ab79fe8.avif",
+      "bytes": 10826,
+      "width": 323,
+      "height": 83,
+      "version": 1792581788,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581788/wazemtech/veyra/f389c758734e_3ae0526e68c98f310fdc5c609b1e4966_client-logo-01-dark-e50a7ab79fe8.avif",
+      "verified": true,
+      "deliveryBytes": 3536,
+      "contentType": "image/webp"
+    },
+    "/assets/9c85a74af3-6a66e4f8c8c0b694ee5d6350_43e65c109b83b1fd604200602c3d964b_client-logo-01-light.avif": {
+      "source": "/assets/9c85a74af3-6a66e4f8c8c0b694ee5d6350_43e65c109b83b1fd604200602c3d964b_client-logo-01-light.avif",
+      "spellings": [
+        "/assets/9c85a74af3-6a66e4f8c8c0b694ee5d6350_43e65c109b83b1fd604200602c3d964b_client-logo-01-light.avif"
+      ],
+      "checksum": "b171a19ad8b5a1fe85447ccbda361fb232caf79cf6f6b5def1a7acd839dd5570",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/694ee5d6350_43e65c109b83b1fd604200602c3d964b_client-logo-01-light-b171a19ad8b5",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581788/wazemtech/veyra/694ee5d6350_43e65c109b83b1fd604200602c3d964b_client-logo-01-light-b171a19ad8b5.avif",
+      "bytes": 10743,
+      "width": 323,
+      "height": 83,
+      "version": 1792581788,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581788/wazemtech/veyra/694ee5d6350_43e65c109b83b1fd604200602c3d964b_client-logo-01-light-b171a19ad8b5.avif",
+      "verified": true,
+      "deliveryBytes": 3772,
+      "contentType": "image/webp"
+    },
+    "/assets/243a529a76-6a66e4f8e51414619aaa06fd_7ed0ff2abcf38b47f6c0ef99759a4ab0_client-logo-02-dark.svg": {
+      "source": "/assets/243a529a76-6a66e4f8e51414619aaa06fd_7ed0ff2abcf38b47f6c0ef99759a4ab0_client-logo-02-dark.svg",
+      "spellings": [
+        "/assets/243a529a76-6a66e4f8e51414619aaa06fd_7ed0ff2abcf38b47f6c0ef99759a4ab0_client-logo-02-dark.svg"
+      ],
+      "checksum": "f655f4ccd4b0f126486fa1e0a67eaf1acfeb1bb422344a80d0f644ff8af05761",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/14619aaa06fd_7ed0ff2abcf38b47f6c0ef99759a4ab0_client-logo-02-dark-f655f4ccd4b0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581788/wazemtech/veyra/14619aaa06fd_7ed0ff2abcf38b47f6c0ef99759a4ab0_client-logo-02-dark-f655f4ccd4b0.svg",
+      "bytes": 51928,
+      "width": 169,
+      "height": 36,
+      "version": 1792581788,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581788/wazemtech/veyra/14619aaa06fd_7ed0ff2abcf38b47f6c0ef99759a4ab0_client-logo-02-dark-f655f4ccd4b0.svg",
+      "verified": true,
+      "deliveryBytes": 51928,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/680b023008-6a66e4f899fca5d0fa2dee6b_2a57d8670a954a35a16c194c33ad67c1_client-logo-07-dark.avif": {
+      "source": "/assets/680b023008-6a66e4f899fca5d0fa2dee6b_2a57d8670a954a35a16c194c33ad67c1_client-logo-07-dark.avif",
+      "spellings": [
+        "/assets/680b023008-6a66e4f899fca5d0fa2dee6b_2a57d8670a954a35a16c194c33ad67c1_client-logo-07-dark.avif"
+      ],
+      "checksum": "b38adf19bdfe9fb89318c4b1dbf5ee699fd06c8e8778314058f3ed6e54bdf952",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/a5d0fa2dee6b_2a57d8670a954a35a16c194c33ad67c1_client-logo-07-dark-b38adf19bdfe",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581790/wazemtech/veyra/a5d0fa2dee6b_2a57d8670a954a35a16c194c33ad67c1_client-logo-07-dark-b38adf19bdfe.avif",
+      "bytes": 4071,
+      "width": 312,
+      "height": 66,
+      "version": 1792581790,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581790/wazemtech/veyra/a5d0fa2dee6b_2a57d8670a954a35a16c194c33ad67c1_client-logo-07-dark-b38adf19bdfe.avif",
+      "verified": true,
+      "deliveryBytes": 3072,
+      "contentType": "image/webp"
+    },
+    "/assets/ff7751b5ca-6a66e4f881914ac484a862d2_86bda9b1690130b5fe0ed0664aa5f063_client-logo-02-light.svg": {
+      "source": "/assets/ff7751b5ca-6a66e4f881914ac484a862d2_86bda9b1690130b5fe0ed0664aa5f063_client-logo-02-light.svg",
+      "spellings": [
+        "/assets/ff7751b5ca-6a66e4f881914ac484a862d2_86bda9b1690130b5fe0ed0664aa5f063_client-logo-02-light.svg"
+      ],
+      "checksum": "789408b0f96208e5ab63d68416fe1d2224a881f9b643e55001e4d896cde901eb",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/ac484a862d2_86bda9b1690130b5fe0ed0664aa5f063_client-logo-02-light-789408b0f962",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581789/wazemtech/veyra/ac484a862d2_86bda9b1690130b5fe0ed0664aa5f063_client-logo-02-light-789408b0f962.svg",
+      "bytes": 51928,
+      "width": 169,
+      "height": 36,
+      "version": 1792581789,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581789/wazemtech/veyra/ac484a862d2_86bda9b1690130b5fe0ed0664aa5f063_client-logo-02-light-789408b0f962.svg",
+      "verified": true,
+      "deliveryBytes": 51928,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/f0630eee7a-6a66e4f82a3b27e9e316e512_c65337e58519dd85922211a5f84114cd_client-logo-03-dark.svg": {
+      "source": "/assets/f0630eee7a-6a66e4f82a3b27e9e316e512_c65337e58519dd85922211a5f84114cd_client-logo-03-dark.svg",
+      "spellings": [
+        "/assets/f0630eee7a-6a66e4f82a3b27e9e316e512_c65337e58519dd85922211a5f84114cd_client-logo-03-dark.svg"
+      ],
+      "checksum": "b406d6b53b5115c7b6e323ab1ce85c1ea6e0406aa071a073bfd26161858c3b72",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/27e9e316e512_c65337e58519dd85922211a5f84114cd_client-logo-03-dark-b406d6b53b51",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581789/wazemtech/veyra/27e9e316e512_c65337e58519dd85922211a5f84114cd_client-logo-03-dark-b406d6b53b51.svg",
+      "bytes": 6909,
+      "width": 246,
+      "height": 91,
+      "version": 1792581789,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581789/wazemtech/veyra/27e9e316e512_c65337e58519dd85922211a5f84114cd_client-logo-03-dark-b406d6b53b51.svg",
+      "verified": true,
+      "deliveryBytes": 6909,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/4385de00aa-6a66e4f89b55b67017f1f4a3_472377ff165b7dbd5255891fd73901f5_client-logo-03-light.svg": {
+      "source": "/assets/4385de00aa-6a66e4f89b55b67017f1f4a3_472377ff165b7dbd5255891fd73901f5_client-logo-03-light.svg",
+      "spellings": [
+        "/assets/4385de00aa-6a66e4f89b55b67017f1f4a3_472377ff165b7dbd5255891fd73901f5_client-logo-03-light.svg"
+      ],
+      "checksum": "3ba0f68f56aa52d4e097effb10fba4546bf07e96760dbb65ee9e0748024bd57b",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/67017f1f4a3_472377ff165b7dbd5255891fd73901f5_client-logo-03-light-3ba0f68f56aa",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581790/wazemtech/veyra/67017f1f4a3_472377ff165b7dbd5255891fd73901f5_client-logo-03-light-3ba0f68f56aa.svg",
+      "bytes": 6909,
+      "width": 246,
+      "height": 91,
+      "version": 1792581790,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581790/wazemtech/veyra/67017f1f4a3_472377ff165b7dbd5255891fd73901f5_client-logo-03-light-3ba0f68f56aa.svg",
+      "verified": true,
+      "deliveryBytes": 6909,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/068ac373bc-6a66e4f8aaa0b1227a2b1313_client-logo-04-light.svg": {
+      "source": "/assets/068ac373bc-6a66e4f8aaa0b1227a2b1313_client-logo-04-light.svg",
+      "spellings": [
+        "/assets/068ac373bc-6a66e4f8aaa0b1227a2b1313_client-logo-04-light.svg"
+      ],
+      "checksum": "bef5e6cf2ced7f34595fdd1cd61dba67c8fa6160c617f308eebee91b55648765",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/068ac373bc-6a66e4f8aaa0b1227a2b1313_client-logo-04-light-bef5e6cf2ced",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581791/wazemtech/veyra/068ac373bc-6a66e4f8aaa0b1227a2b1313_client-logo-04-light-bef5e6cf2ced.svg",
+      "bytes": 6290,
+      "width": 156,
+      "height": 33,
+      "version": 1792581791,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581791/wazemtech/veyra/068ac373bc-6a66e4f8aaa0b1227a2b1313_client-logo-04-light-bef5e6cf2ced.svg",
+      "verified": true,
+      "deliveryBytes": 6290,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/18ce68eeae-6a66e4f87be54f92514aae5d_ef202b2d49fb5974796d6286852e6670_client-logo-05-dark.avif": {
+      "source": "/assets/18ce68eeae-6a66e4f87be54f92514aae5d_ef202b2d49fb5974796d6286852e6670_client-logo-05-dark.avif",
+      "spellings": [
+        "/assets/18ce68eeae-6a66e4f87be54f92514aae5d_ef202b2d49fb5974796d6286852e6670_client-logo-05-dark.avif"
+      ],
+      "checksum": "dbfbbd0e56d35b32b290dc08a21fb2352c5264d866c71344abc53a8e916134ae",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/4f92514aae5d_ef202b2d49fb5974796d6286852e6670_client-logo-05-dark-dbfbbd0e56d3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581792/wazemtech/veyra/4f92514aae5d_ef202b2d49fb5974796d6286852e6670_client-logo-05-dark-dbfbbd0e56d3.avif",
+      "bytes": 7735,
+      "width": 256,
+      "height": 59,
+      "version": 1792581792,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581792/wazemtech/veyra/4f92514aae5d_ef202b2d49fb5974796d6286852e6670_client-logo-05-dark-dbfbbd0e56d3.avif",
+      "verified": true,
+      "deliveryBytes": 3274,
+      "contentType": "image/webp"
+    },
+    "/assets/28b1971805-6a66e4f89b55b67017f1f4b7_6b5c43b75fdc34ab590da2aa904797f7_client-logo-06-dark.avif": {
+      "source": "/assets/28b1971805-6a66e4f89b55b67017f1f4b7_6b5c43b75fdc34ab590da2aa904797f7_client-logo-06-dark.avif",
+      "spellings": [
+        "/assets/28b1971805-6a66e4f89b55b67017f1f4b7_6b5c43b75fdc34ab590da2aa904797f7_client-logo-06-dark.avif"
+      ],
+      "checksum": "36d48c2b418416e924ec57d40c71d55336039383baa2ccf84593c2e9998043a7",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/b67017f1f4b7_6b5c43b75fdc34ab590da2aa904797f7_client-logo-06-dark-36d48c2b4184",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581792/wazemtech/veyra/b67017f1f4b7_6b5c43b75fdc34ab590da2aa904797f7_client-logo-06-dark-36d48c2b4184.avif",
+      "bytes": 6721,
+      "width": 246,
+      "height": 75,
+      "version": 1792581792,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581792/wazemtech/veyra/b67017f1f4b7_6b5c43b75fdc34ab590da2aa904797f7_client-logo-06-dark-36d48c2b4184.avif",
+      "verified": true,
+      "deliveryBytes": 2658,
+      "contentType": "image/webp"
+    },
+    "/assets/b8680bc31b-6a66e4f87b405f421ad72dfa_client-logo-05-light.svg": {
+      "source": "/assets/b8680bc31b-6a66e4f87b405f421ad72dfa_client-logo-05-light.svg",
+      "spellings": [
+        "/assets/b8680bc31b-6a66e4f87b405f421ad72dfa_client-logo-05-light.svg"
+      ],
+      "checksum": "844cbe4b2268517387c96d723a820cdfe7af77e22c4d6575d61cce6682fc9123",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/b8680bc31b-6a66e4f87b405f421ad72dfa_client-logo-05-light-844cbe4b2268",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581792/wazemtech/veyra/b8680bc31b-6a66e4f87b405f421ad72dfa_client-logo-05-light-844cbe4b2268.svg",
+      "bytes": 374732,
+      "width": 128,
+      "height": 30,
+      "version": 1792581792,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581792/wazemtech/veyra/b8680bc31b-6a66e4f87b405f421ad72dfa_client-logo-05-light-844cbe4b2268.svg",
+      "verified": true,
+      "deliveryBytes": 374732,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/00e49e4bcc-6a66e4f8aaa0b1227a2b1326_client-logo-06-light.svg": {
+      "source": "/assets/00e49e4bcc-6a66e4f8aaa0b1227a2b1326_client-logo-06-light.svg",
+      "spellings": [
+        "/assets/00e49e4bcc-6a66e4f8aaa0b1227a2b1326_client-logo-06-light.svg"
+      ],
+      "checksum": "897aa5e4476ea0b2a0688cf2c675676eb3c2a4b45a06b4d52d2d06b6d23b1c0d",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/00e49e4bcc-6a66e4f8aaa0b1227a2b1326_client-logo-06-light-897aa5e4476e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581793/wazemtech/veyra/00e49e4bcc-6a66e4f8aaa0b1227a2b1326_client-logo-06-light-897aa5e4476e.svg",
+      "bytes": 4957,
+      "width": 123,
+      "height": 38,
+      "version": 1792581793,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581793/wazemtech/veyra/00e49e4bcc-6a66e4f8aaa0b1227a2b1326_client-logo-06-light-897aa5e4476e.svg",
+      "verified": true,
+      "deliveryBytes": 4957,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/51617f69a1-6a66e72076c8ee472518989f_e966c94ee37097d8b9b88ff1fb78ee0d_client-logo-07-dark.avif": {
+      "source": "/assets/51617f69a1-6a66e72076c8ee472518989f_e966c94ee37097d8b9b88ff1fb78ee0d_client-logo-07-dark.avif",
+      "spellings": [
+        "/assets/51617f69a1-6a66e72076c8ee472518989f_e966c94ee37097d8b9b88ff1fb78ee0d_client-logo-07-dark.avif"
+      ],
+      "checksum": "cdba1cd55677fa4e373d07f3601280da2a00dac057204d942ac987e042e2db66",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/ee472518989f_e966c94ee37097d8b9b88ff1fb78ee0d_client-logo-07-dark-cdba1cd55677",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581793/wazemtech/veyra/ee472518989f_e966c94ee37097d8b9b88ff1fb78ee0d_client-logo-07-dark-cdba1cd55677.avif",
+      "bytes": 3815,
+      "width": 329,
+      "height": 50,
+      "version": 1792581793,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581793/wazemtech/veyra/ee472518989f_e966c94ee37097d8b9b88ff1fb78ee0d_client-logo-07-dark-cdba1cd55677.avif",
+      "verified": true,
+      "deliveryBytes": 2600,
+      "contentType": "image/webp"
+    },
+    "/assets/ba06e68a9a-6a66ecc13cbb970ba4fc636b_client-logo-08-light.avif": {
+      "source": "/assets/ba06e68a9a-6a66ecc13cbb970ba4fc636b_client-logo-08-light.avif",
+      "spellings": [
+        "/assets/ba06e68a9a-6a66ecc13cbb970ba4fc636b_client-logo-08-light.avif"
+      ],
+      "checksum": "c9efdea4954d95aad9312efb8b5dc480debc14dba5d5de980b5e8df6b1a6433f",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/ba06e68a9a-6a66ecc13cbb970ba4fc636b_client-logo-08-light-c9efdea4954d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581794/wazemtech/veyra/ba06e68a9a-6a66ecc13cbb970ba4fc636b_client-logo-08-light-c9efdea4954d.avif",
+      "bytes": 3737,
+      "width": 329,
+      "height": 50,
+      "version": 1792581794,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581794/wazemtech/veyra/ba06e68a9a-6a66ecc13cbb970ba4fc636b_client-logo-08-light-c9efdea4954d.avif",
+      "verified": true,
+      "deliveryBytes": 2804,
+      "contentType": "image/webp"
+    },
+    "/assets/8b326487c4-6a577ec0e8140629447cf434_journey-image.avif": {
+      "source": "/assets/8b326487c4-6a577ec0e8140629447cf434_journey-image.avif",
+      "spellings": [
+        "/assets/8b326487c4-6a577ec0e8140629447cf434_journey-image.avif"
+      ],
+      "checksum": "e5997de1fd5e2d9b76c990d91d4b01d6407b6bedbf6f52be76708e74cbe05299",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/8b326487c4-6a577ec0e8140629447cf434_journey-image-e5997de1fd5e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581795/wazemtech/veyra/8b326487c4-6a577ec0e8140629447cf434_journey-image-e5997de1fd5e.avif",
+      "bytes": 27834,
+      "width": 1536,
+      "height": 1798,
+      "version": 1792581795,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581795/wazemtech/veyra/8b326487c4-6a577ec0e8140629447cf434_journey-image-e5997de1fd5e.avif",
+      "verified": true,
+      "deliveryBytes": 27834,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581795/wazemtech/veyra/8b326487c4-6a577ec0e8140629447cf434_journey-image-e5997de1fd5e.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image.avif": {
+      "source": "/assets/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image.avif",
+      "spellings": [
+        "/assets/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image.avif"
+      ],
+      "checksum": "a915a402a04f0119a33a5788c73d8ec3608e7f41d9952519224a104d9c724511",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image-a915a402a04f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581795/wazemtech/veyra/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image-a915a402a04f.avif",
+      "bytes": 13347,
+      "width": 664,
+      "height": 398,
+      "version": 1792581795,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581795/wazemtech/veyra/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image-a915a402a04f.avif",
+      "verified": true,
+      "deliveryBytes": 13347,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581795/wazemtech/veyra/15b38aac19-6a59da59fef7bfd52109c94c_hero-3-image-a915a402a04f.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/9495b2c981-6a4b4b8a7142b5b02068ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image.avif": {
+      "source": "/assets/9495b2c981-6a4b4b8a7142b5b02068ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image.avif",
+      "spellings": [
+        "/assets/9495b2c981-6a4b4b8a7142b5b02068ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image.avif"
+      ],
+      "checksum": "4734a2d2a007a72820362ce337496e77031b875bcbbfebb69fa2ca010f13e424",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image-4734a2d2a007",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581796/wazemtech/veyra/ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image-4734a2d2a007.avif",
+      "bytes": 108805,
+      "width": 1536,
+      "height": 1456,
+      "version": 1792581796,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581796/wazemtech/veyra/ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image-4734a2d2a007.avif",
+      "verified": true,
+      "deliveryBytes": 108805,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581796/wazemtech/veyra/ce30_34a7c4d3767c800151b519799b7e70ee_service-service-block-image-4734a2d2a007.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/80d82dc188-6a4b67dd9c106c3033acc0f1_value-icon-1.svg": {
+      "source": "/assets/80d82dc188-6a4b67dd9c106c3033acc0f1_value-icon-1.svg",
+      "spellings": [
+        "/assets/80d82dc188-6a4b67dd9c106c3033acc0f1_value-icon-1.svg"
+      ],
+      "checksum": "ae3ee749b8bda01b3300445d7d35a71b6f4dd7c6c9fadfd951e5445f3792aaba",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/80d82dc188-6a4b67dd9c106c3033acc0f1_value-icon-1-ae3ee749b8bd",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581796/wazemtech/veyra/80d82dc188-6a4b67dd9c106c3033acc0f1_value-icon-1-ae3ee749b8bd.svg",
+      "bytes": 810,
+      "width": 64,
+      "height": 60,
+      "version": 1792581796,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581796/wazemtech/veyra/80d82dc188-6a4b67dd9c106c3033acc0f1_value-icon-1-ae3ee749b8bd.svg",
+      "verified": true,
+      "deliveryBytes": 810,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/271c711a46-6a4b67dd944b089b5118340c_value-icon-2.svg": {
+      "source": "/assets/271c711a46-6a4b67dd944b089b5118340c_value-icon-2.svg",
+      "spellings": [
+        "/assets/271c711a46-6a4b67dd944b089b5118340c_value-icon-2.svg"
+      ],
+      "checksum": "f271719d18833f9653284036cd8598348266381e7712cf802f357087eec51602",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/271c711a46-6a4b67dd944b089b5118340c_value-icon-2-f271719d1883",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581796/wazemtech/veyra/271c711a46-6a4b67dd944b089b5118340c_value-icon-2-f271719d1883.svg",
+      "bytes": 1458,
+      "width": 64,
+      "height": 60,
+      "version": 1792581796,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581796/wazemtech/veyra/271c711a46-6a4b67dd944b089b5118340c_value-icon-2-f271719d1883.svg",
+      "verified": true,
+      "deliveryBytes": 1458,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/ebab1ceb82-6a4b67dd2954d64364c592d5_value-icon-4.svg": {
+      "source": "/assets/ebab1ceb82-6a4b67dd2954d64364c592d5_value-icon-4.svg",
+      "spellings": [
+        "/assets/ebab1ceb82-6a4b67dd2954d64364c592d5_value-icon-4.svg"
+      ],
+      "checksum": "0bcf024cbbb7283432103e4f96793803d55f5f09f2a2d448070dbc56791b23d9",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/ebab1ceb82-6a4b67dd2954d64364c592d5_value-icon-4-0bcf024cbbb7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581797/wazemtech/veyra/ebab1ceb82-6a4b67dd2954d64364c592d5_value-icon-4-0bcf024cbbb7.svg",
+      "bytes": 1737,
+      "width": 64,
+      "height": 60,
+      "version": 1792581797,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581797/wazemtech/veyra/ebab1ceb82-6a4b67dd2954d64364c592d5_value-icon-4-0bcf024cbbb7.svg",
+      "verified": true,
+      "deliveryBytes": 1737,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/48ba505f2a-6a4b67dd6e63de50d5f02164_value-icon-3.svg": {
+      "source": "/assets/48ba505f2a-6a4b67dd6e63de50d5f02164_value-icon-3.svg",
+      "spellings": [
+        "/assets/48ba505f2a-6a4b67dd6e63de50d5f02164_value-icon-3.svg"
+      ],
+      "checksum": "1a5d5232fa5bab1268cbc39819b540f84b9eb0f6d538c5ef56d3a592ea3507e6",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/48ba505f2a-6a4b67dd6e63de50d5f02164_value-icon-3-1a5d5232fa5b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581797/wazemtech/veyra/48ba505f2a-6a4b67dd6e63de50d5f02164_value-icon-3-1a5d5232fa5b.svg",
+      "bytes": 1411,
+      "width": 64,
+      "height": 60,
+      "version": 1792581797,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581797/wazemtech/veyra/48ba505f2a-6a4b67dd6e63de50d5f02164_value-icon-3-1a5d5232fa5b.svg",
+      "verified": true,
+      "deliveryBytes": 1411,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2-.avif": {
+      "source": "/assets/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2-.avif",
+      "spellings": [
+        "/assets/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2-.avif"
+      ],
+      "checksum": "e3a903c7c8e21df0c86433ff1b697f62d0d31aa0a3398cc5efc8854a3dd22bd0",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2--e3a903c7c8e2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581798/wazemtech/veyra/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2--e3a903c7c8e2.avif",
+      "bytes": 106544,
+      "width": 1772,
+      "height": 1724,
+      "version": 1792581798,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581798/wazemtech/veyra/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2--e3a903c7c8e2.avif",
+      "verified": true,
+      "deliveryBytes": 106544,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581798/wazemtech/veyra/fb6952c1e0-6a6b1e58de94fe5c482f6261_portfolio-small-03--2--e3a903c7c8e2.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/ae524c7363-6a59e9b95b764e919dfa1304_service-points-tick.svg": {
+      "source": "/assets/ae524c7363-6a59e9b95b764e919dfa1304_service-points-tick.svg",
+      "spellings": [
+        "/assets/ae524c7363-6a59e9b95b764e919dfa1304_service-points-tick.svg"
+      ],
+      "checksum": "7d2a9c4f8b0e7248463913f950d81140f886d270f2e81b5c9beb40cbda2daa64",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/ae524c7363-6a59e9b95b764e919dfa1304_service-points-tick-7d2a9c4f8b0e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581798/wazemtech/veyra/ae524c7363-6a59e9b95b764e919dfa1304_service-points-tick-7d2a9c4f8b0e.svg",
+      "bytes": 725,
+      "width": 20,
+      "height": 21,
+      "version": 1792581798,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581798/wazemtech/veyra/ae524c7363-6a59e9b95b764e919dfa1304_service-points-tick-7d2a9c4f8b0e.svg",
+      "verified": true,
+      "deliveryBytes": 725,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4.avif": {
+      "source": "/assets/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4.avif",
+      "spellings": [
+        "/assets/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4.avif"
+      ],
+      "checksum": "d1b64ed865e77ab40c931aa6c2310953a4f299535a121718b41709a9c53e3a25",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4-d1b64ed865e7",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581799/wazemtech/veyra/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4-d1b64ed865e7.avif",
+      "bytes": 28269,
+      "width": 1772,
+      "height": 1724,
+      "version": 1792581799,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581799/wazemtech/veyra/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4-d1b64ed865e7.avif",
+      "verified": true,
+      "deliveryBytes": 28269,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581799/wazemtech/veyra/32913c10a0-6a4ba3d90d2969ea832fc9de_portfolio-small-4-d1b64ed865e7.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01.avif": {
+      "source": "/assets/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01.avif",
+      "spellings": [
+        "/assets/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01.avif"
+      ],
+      "checksum": "09576f7b0072036cf7c93518993aff2f0f3ec00d356e79c0a331ede737b3b77a",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01-09576f7b0072",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581800/wazemtech/veyra/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01-09576f7b0072.avif",
+      "bytes": 7618,
+      "width": 1776,
+      "height": 1724,
+      "version": 1792581800,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581800/wazemtech/veyra/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01-09576f7b0072.avif",
+      "verified": true,
+      "deliveryBytes": 7618,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581800/wazemtech/veyra/35ee599ea6-6a5895f51a9fbfa04cefe9ac_portfolio-small-01-09576f7b0072.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05.avif": {
+      "source": "/assets/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05.avif",
+      "spellings": [
+        "/assets/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05.avif"
+      ],
+      "checksum": "e066dd25821d3674e928ef1a55f330048851277496042dad34ef62cc37dc6ebf",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05-e066dd25821d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581800/wazemtech/veyra/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05-e066dd25821d.avif",
+      "bytes": 49587,
+      "width": 1776,
+      "height": 1724,
+      "version": 1792581800,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581800/wazemtech/veyra/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05-e066dd25821d.avif",
+      "verified": true,
+      "deliveryBytes": 49587,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581800/wazemtech/veyra/75ec0c0c43-6a58951d473fe0a22aaa5196_portfolio-small-05-e066dd25821d.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02.avif": {
+      "source": "/assets/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02.avif",
+      "spellings": [
+        "/assets/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02.avif"
+      ],
+      "checksum": "117a65262e17ac73393a46b88809c792b2fdd616171c589f5663f6649e24ee2a",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02-117a65262e17",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581800/wazemtech/veyra/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02-117a65262e17.avif",
+      "bytes": 23496,
+      "width": 1776,
+      "height": 1724,
+      "version": 1792581800,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581800/wazemtech/veyra/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02-117a65262e17.avif",
+      "verified": true,
+      "deliveryBytes": 23496,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581800/wazemtech/veyra/3863525b20-6a588940ec4939075e9ed735_portfolio-small-02-117a65262e17.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3.avif": {
+      "source": "/assets/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3.avif",
+      "spellings": [
+        "/assets/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3.avif"
+      ],
+      "checksum": "90bbff0eb9f1ddd23e08361dfa15e0f83a005653aca3c1bee0affafb119c809b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3-90bbff0eb9f1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581801/wazemtech/veyra/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3-90bbff0eb9f1.avif",
+      "bytes": 72152,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581801,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581801/wazemtech/veyra/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3-90bbff0eb9f1.avif",
+      "verified": true,
+      "deliveryBytes": 72152,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581801/wazemtech/veyra/7c1088f2cc-6a4c9f2733e443c3bb43b357_blog-medium-3-90bbff0eb9f1.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5.avif": {
+      "source": "/assets/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5.avif",
+      "spellings": [
+        "/assets/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5.avif"
+      ],
+      "checksum": "cbdcf957119c5a7273fec2a03f658f05004d338f5cbd606d4d216a0cf89d0540",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5-cbdcf957119c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581801/wazemtech/veyra/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5-cbdcf957119c.avif",
+      "bytes": 81021,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581801,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581801/wazemtech/veyra/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5-cbdcf957119c.avif",
+      "verified": true,
+      "deliveryBytes": 81021,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581801/wazemtech/veyra/648c9ad2a1-6a4e16424d08db288196a46c_blog-medium-5-cbdcf957119c.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009.avif": {
+      "source": "/assets/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009.avif",
+      "spellings": [
+        "/assets/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009.avif"
+      ],
+      "checksum": "7a488f715f51453e7cc1553ea0ee4954a445d7c5de795392a86b6a5482117226",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009-7a488f715f51",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581802/wazemtech/veyra/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009-7a488f715f51.avif",
+      "bytes": 63885,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581802,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581802/wazemtech/veyra/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009-7a488f715f51.avif",
+      "verified": true,
+      "deliveryBytes": 63885,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581802/wazemtech/veyra/accc6ec24d-6a5df8cf4c51ec8414fe271e_blog-medium-009-7a488f715f51.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08.avif": {
+      "source": "/assets/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08.avif",
+      "spellings": [
+        "/assets/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08.avif"
+      ],
+      "checksum": "9fe850bb4a483e0b10b3d150c122a1ac244d9fe4f7a01f069c3bc128bcc50eb3",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08-9fe850bb4a48",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581802/wazemtech/veyra/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08-9fe850bb4a48.avif",
+      "bytes": 12601,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581802,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581802/wazemtech/veyra/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08-9fe850bb4a48.avif",
+      "verified": true,
+      "deliveryBytes": 12601,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581802/wazemtech/veyra/06aa5d20e5-6a5df32c01420e36da5ca77a_blog-medium-08-9fe850bb4a48.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09.avif": {
+      "source": "/assets/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09.avif",
+      "spellings": [
+        "/assets/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09.avif"
+      ],
+      "checksum": "14e706c40d1c5eb7d3d22ad26f91790ec197dcc59b326229c0635e5335b76335",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09-14e706c40d1c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581804/wazemtech/veyra/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09-14e706c40d1c.avif",
+      "bytes": 111617,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581804,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581804/wazemtech/veyra/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09-14e706c40d1c.avif",
+      "verified": true,
+      "deliveryBytes": 111617,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581804/wazemtech/veyra/1e5a5381e5-6a5df394d035020513ea3418_blog-medium-09-14e706c40d1c.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10.avif": {
+      "source": "/assets/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10.avif",
+      "spellings": [
+        "/assets/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10.avif"
+      ],
+      "checksum": "3e02298e6adb2a1ce1c0d8e9fe8d240a4ace6a15c5dcd6c2f5ac5645cfb8e5c6",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10-3e02298e6adb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581804/wazemtech/veyra/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10-3e02298e6adb.avif",
+      "bytes": 10748,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581804,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581804/wazemtech/veyra/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10-3e02298e6adb.avif",
+      "verified": true,
+      "deliveryBytes": 10748,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581804/wazemtech/veyra/5ad2d20f2a-6a61b09bfb97424043b6ec7d_portfolio-small-10-3e02298e6adb.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11.avif": {
+      "source": "/assets/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11.avif",
+      "spellings": [
+        "/assets/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11.avif"
+      ],
+      "checksum": "3a8b42e6b64e45296f046bdf9efbf8349af17c93eeaaddabeadbebf5beb74cee",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11-3a8b42e6b64e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581804/wazemtech/veyra/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11-3a8b42e6b64e.avif",
+      "bytes": 26928,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581804,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581804/wazemtech/veyra/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11-3a8b42e6b64e.avif",
+      "verified": true,
+      "deliveryBytes": 26928,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581804/wazemtech/veyra/56a9a631c8-6a61b0f3af45c6303b73cab5_portfolio-small-11-3a8b42e6b64e.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12.avif": {
+      "source": "/assets/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12.avif",
+      "spellings": [
+        "/assets/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12.avif"
+      ],
+      "checksum": "f1de18967a7ba239016b0b7abc5082e034209ac6a8805f22d74adbb2c14e1396",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12-f1de18967a7b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581805/wazemtech/veyra/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12-f1de18967a7b.avif",
+      "bytes": 68494,
+      "width": 1168,
+      "height": 1262,
+      "version": 1792581805,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581805/wazemtech/veyra/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12-f1de18967a7b.avif",
+      "verified": true,
+      "deliveryBytes": 68494,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581805/wazemtech/veyra/47ecfc84c2-6a61b17257b82ea3aea3e798_portfolio-small-12-f1de18967a7b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2e9cc61083-6a672463585d346876fbdff4_blog-author-06.avif": {
+      "source": "/assets/2e9cc61083-6a672463585d346876fbdff4_blog-author-06.avif",
+      "spellings": [
+        "/assets/2e9cc61083-6a672463585d346876fbdff4_blog-author-06.avif"
+      ],
+      "checksum": "dd71175599aff06d853780c896203e500aa5288cbe19b42e8263b21469f03062",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/2e9cc61083-6a672463585d346876fbdff4_blog-author-06-dd71175599af",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581805/wazemtech/veyra/2e9cc61083-6a672463585d346876fbdff4_blog-author-06-dd71175599af.avif",
+      "bytes": 3001,
+      "width": 264,
+      "height": 264,
+      "version": 1792581805,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581805/wazemtech/veyra/2e9cc61083-6a672463585d346876fbdff4_blog-author-06-dd71175599af.avif",
+      "verified": true,
+      "deliveryBytes": 3001,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581805/wazemtech/veyra/2e9cc61083-6a672463585d346876fbdff4_blog-author-06-dd71175599af.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/850e070882-6a4b7ce7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image.avif": {
+      "source": "/assets/850e070882-6a4b7ce7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image.avif",
+      "spellings": [
+        "/assets/850e070882-6a4b7ce7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image.avif"
+      ],
+      "checksum": "090b1b952f9c22e0c84a245ae9dc04379d4e9a588da3acfff905dd6f54feab3f",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/e7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image-090b1b952f9c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/e7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image-090b1b952f9c.avif",
+      "bytes": 55694,
+      "width": 1518,
+      "height": 2066,
+      "version": 1792581807,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/e7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image-090b1b952f9c.avif",
+      "verified": true,
+      "deliveryBytes": 55694,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581807/wazemtech/veyra/e7ed33ac8529cb8a46_018780d4dc7176c70b35da684f221beb_contact-image-090b1b952f9c.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2-.avif": {
+      "source": "/assets/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2-.avif",
+      "spellings": [
+        "/assets/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2-.avif"
+      ],
+      "checksum": "86276312dbe8e6c19e2b7425299fd87214002e2b3066eb1b72ef06eeb9c622a3",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2--86276312dbe8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2--86276312dbe8.avif",
+      "bytes": 123801,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581807,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2--86276312dbe8.avif",
+      "verified": true,
+      "deliveryBytes": 123801,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581807/wazemtech/veyra/65edfe5d94-6a6b1e5b3db17a60910035d5_portfolio-medium-03--2--86276312dbe8.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06.avif": {
+      "source": "/assets/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06.avif",
+      "spellings": [
+        "/assets/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06.avif"
+      ],
+      "checksum": "935be7ff070ef6d76cd943545e582ab9b79c3262eeddaa10b695ef227baeff25",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06-935be7ff070e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06-935be7ff070e.avif",
+      "bytes": 26062,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581807,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06-935be7ff070e.avif",
+      "verified": true,
+      "deliveryBytes": 26062,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581807/wazemtech/veyra/f1c55f4a5f-6a61be91abf54bfc0ea34156_portfolio-medium-06-935be7ff070e.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4.avif": {
+      "source": "/assets/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4.avif",
+      "spellings": [
+        "/assets/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4.avif"
+      ],
+      "checksum": "184f778e31b620af1ff49889cd2ec592f0dc78b4cd2304a0bef068c4d11dbe67",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4-184f778e31b6",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4-184f778e31b6.avif",
+      "bytes": 43022,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581807,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581807/wazemtech/veyra/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4-184f778e31b6.avif",
+      "verified": true,
+      "deliveryBytes": 43022,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581807/wazemtech/veyra/66344e44e7-6a4ba3db59907c751a9c16ac_portfolio-medium-4-184f778e31b6.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07.avif": {
+      "source": "/assets/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07.avif",
+      "spellings": [
+        "/assets/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07.avif"
+      ],
+      "checksum": "55b9d5658e7155f13f6841514117c5889ab6900cf2f915f4ecfa4e4c27d6c90b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07-55b9d5658e71",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581808/wazemtech/veyra/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07-55b9d5658e71.avif",
+      "bytes": 118609,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581808,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581808/wazemtech/veyra/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07-55b9d5658e71.avif",
+      "verified": true,
+      "deliveryBytes": 118609,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581808/wazemtech/veyra/7bbe6483a4-6a61bfe7f26afbf9df4837dc_portfolio-medium-07-55b9d5658e71.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08.avif": {
+      "source": "/assets/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08.avif",
+      "spellings": [
+        "/assets/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08.avif"
+      ],
+      "checksum": "5393addd099aa17e5a77b0995aedb54426a456a787b6f3177f2dda87b6e49b88",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08-5393addd099a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581809/wazemtech/veyra/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08-5393addd099a.avif",
+      "bytes": 45079,
+      "width": 2384,
+      "height": 1724,
+      "version": 1792581809,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581809/wazemtech/veyra/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08-5393addd099a.avif",
+      "verified": true,
+      "deliveryBytes": 45079,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581809/wazemtech/veyra/dccf624972-6a61c1b3f26afbf9df495e7b_portfolio-medium-08-5393addd099a.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1.avif": {
+      "source": "/assets/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1.avif",
+      "spellings": [
+        "/assets/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1.avif"
+      ],
+      "checksum": "b6c41b37bc9130646965ddbe44465098cdc8588988e11fc0f0017b31d9246392",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1-b6c41b37bc91",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581810/wazemtech/veyra/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1-b6c41b37bc91.avif",
+      "bytes": 17583,
+      "width": 1536,
+      "height": 1278,
+      "version": 1792581810,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581810/wazemtech/veyra/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1-b6c41b37bc91.avif",
+      "verified": true,
+      "deliveryBytes": 17583,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581810/wazemtech/veyra/54722001f8-6a61dfafbfdda8e53d5d1e0e_portfolio-details-1-b6c41b37bc91.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2.avif": {
+      "source": "/assets/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2.avif",
+      "spellings": [
+        "/assets/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2.avif"
+      ],
+      "checksum": "31f39cd41839f55ae5c1b3bbf77d10551dc61210d3c9bfe9a8404fc012f9873c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2-31f39cd41839",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581810/wazemtech/veyra/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2-31f39cd41839.avif",
+      "bytes": 16918,
+      "width": 1536,
+      "height": 1278,
+      "version": 1792581810,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581810/wazemtech/veyra/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2-31f39cd41839.avif",
+      "verified": true,
+      "deliveryBytes": 16918,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581810/wazemtech/veyra/e2d5f10c21-6a61dfaff3d84a357381fb58_portfolio-details-2-31f39cd41839.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3.avif": {
+      "source": "/assets/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3.avif",
+      "spellings": [
+        "/assets/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3.avif"
+      ],
+      "checksum": "118836bb73e4812111b20eff490fdc43c5caa56d98f6dd48862fd95236ddddb5",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3-118836bb73e4",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581811/wazemtech/veyra/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3-118836bb73e4.avif",
+      "bytes": 48814,
+      "width": 3120,
+      "height": 1278,
+      "version": 1792581811,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581811/wazemtech/veyra/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3-118836bb73e4.avif",
+      "verified": true,
+      "deliveryBytes": 48814,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581811/wazemtech/veyra/3ede814951-6a61dfb05f4ff90620dcba28_portfolio-details-3-118836bb73e4.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/aa7a7409d1-6a3bb184350ccab8970a6530_process-icon-1.svg": {
+      "source": "/assets/aa7a7409d1-6a3bb184350ccab8970a6530_process-icon-1.svg",
+      "spellings": [
+        "/assets/aa7a7409d1-6a3bb184350ccab8970a6530_process-icon-1.svg"
+      ],
+      "checksum": "492785793b6129b87695b2ca1649185fc83e288e7fce0bc370a924fa2b93435c",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/aa7a7409d1-6a3bb184350ccab8970a6530_process-icon-1-492785793b61",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581812/wazemtech/veyra/aa7a7409d1-6a3bb184350ccab8970a6530_process-icon-1-492785793b61.svg",
+      "bytes": 638,
+      "width": 60,
+      "height": 60,
+      "version": 1792581812,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581812/wazemtech/veyra/aa7a7409d1-6a3bb184350ccab8970a6530_process-icon-1-492785793b61.svg",
+      "verified": true,
+      "deliveryBytes": 638,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/a2a598d0cf-6a3bb31cb46cad20c6a40d86_process-icon-2.svg": {
+      "source": "/assets/a2a598d0cf-6a3bb31cb46cad20c6a40d86_process-icon-2.svg",
+      "spellings": [
+        "/assets/a2a598d0cf-6a3bb31cb46cad20c6a40d86_process-icon-2.svg"
+      ],
+      "checksum": "0f20fa492709853b538e1eed4b1252b41b5970c649409a53be14fb194c325dbe",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/a2a598d0cf-6a3bb31cb46cad20c6a40d86_process-icon-2-0f20fa492709",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581812/wazemtech/veyra/a2a598d0cf-6a3bb31cb46cad20c6a40d86_process-icon-2-0f20fa492709.svg",
+      "bytes": 1427,
+      "width": 60,
+      "height": 60,
+      "version": 1792581812,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581812/wazemtech/veyra/a2a598d0cf-6a3bb31cb46cad20c6a40d86_process-icon-2-0f20fa492709.svg",
+      "verified": true,
+      "deliveryBytes": 1427,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image.avif": {
+      "source": "/assets/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image.avif",
+      "spellings": [
+        "/assets/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image.avif"
+      ],
+      "checksum": "7b5a7d164783d91662179ef4cd091cf6dd27ef4cdd447bb538bf163484587664",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image-7b5a7d164783",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581813/wazemtech/veyra/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image-7b5a7d164783.avif",
+      "bytes": 18775,
+      "width": 1250,
+      "height": 1430,
+      "version": 1792581813,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581813/wazemtech/veyra/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image-7b5a7d164783.avif",
+      "verified": true,
+      "deliveryBytes": 18775,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581813/wazemtech/veyra/0d9e05921a-6a5f11e8551c8baaa3c41eb5_404-image-7b5a7d164783.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image.avif": {
+      "source": "/assets/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image.avif",
+      "spellings": [
+        "/assets/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image.avif"
+      ],
+      "checksum": "e67478c0482b95228d2d070c066d23787780e2d965d7aa5d1f5e6460c89cbb8e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/veyra/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image-e67478c0482b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581813/wazemtech/veyra/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image-e67478c0482b.avif",
+      "bytes": 60256,
+      "width": 1528,
+      "height": 1480,
+      "version": 1792581813,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581813/wazemtech/veyra/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image-e67478c0482b.avif",
+      "verified": true,
+      "deliveryBytes": 60256,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581813/wazemtech/veyra/f22ea73dce-6a61e670794e04785a13c85e_portfolio-counter-image-e67478c0482b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/d6cc1bed87-6a4384f12c4432a751c7317a_approch-icon-two.svg": {
+      "source": "/assets/d6cc1bed87-6a4384f12c4432a751c7317a_approch-icon-two.svg",
+      "spellings": [
+        "/assets/d6cc1bed87-6a4384f12c4432a751c7317a_approch-icon-two.svg"
+      ],
+      "checksum": "c29ca3439f9157986e4133a1c64a2af1c5963556c46213ed0be157a06f0cbcc5",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/d6cc1bed87-6a4384f12c4432a751c7317a_approch-icon-two-c29ca3439f91",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581813/wazemtech/veyra/d6cc1bed87-6a4384f12c4432a751c7317a_approch-icon-two-c29ca3439f91.svg",
+      "bytes": 610,
+      "width": 63,
+      "height": 60,
+      "version": 1792581813,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581813/wazemtech/veyra/d6cc1bed87-6a4384f12c4432a751c7317a_approch-icon-two-c29ca3439f91.svg",
+      "verified": true,
+      "deliveryBytes": 610,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask.svg": {
+      "source": "/assets/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask.svg",
+      "spellings": [
+        "/assets/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask.svg"
+      ],
+      "checksum": "4321d3af1180b1c47e869d4722a76af8350f4ffe9a987f240b93430e23d81061",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask-4321d3af1180",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581815/wazemtech/veyra/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask-4321d3af1180.svg",
+      "bytes": 198,
+      "width": 1413,
+      "height": 1028,
+      "version": 1792581815,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581815/wazemtech/veyra/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask-4321d3af1180.svg",
+      "verified": true,
+      "deliveryBytes": 198,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon.svg": {
+      "source": "/assets/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon.svg",
+      "spellings": [
+        "/assets/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon.svg"
+      ],
+      "checksum": "3177311d35c37df795578bf62aa8c21e28970ca5454638ce2fcdb1e66b55612f",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/veyra/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon-3177311d35c3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581814/wazemtech/veyra/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon-3177311d35c3.svg",
+      "bytes": 156,
+      "width": 14,
+      "height": 14,
+      "version": 1792581814,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581814/wazemtech/veyra/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon-3177311d35c3.svg",
+      "verified": true,
+      "deliveryBytes": 156,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ.woff2": {
+      "source": "/assets/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ.woff2",
+      "spellings": [
+        "/assets/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ.woff2"
+      ],
+      "checksum": "6446a9eb78b9fef33cef3bc7897897495a6d12e7ac1577cbf28e4e4f087af203",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/veyra/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ-6446a9eb78b9.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ-6446a9eb78b9.woff2",
+      "bytes": 28224,
+      "version": 1792582017,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/011cb50bc7-gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ-6446a9eb78b9.woff2",
+      "verified": true,
+      "deliveryBytes": 28224,
+      "contentType": "font/woff2"
+    },
+    "/assets/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ.woff2": {
+      "source": "/assets/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ.woff2",
+      "spellings": [
+        "/assets/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ.woff2"
+      ],
+      "checksum": "abb4c4e12e5a4c7de038fcfeef935dbfd41bebffc0dc4db7c9420a919d1a67b8",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/veyra/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ-abb4c4e12e5a.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ-abb4c4e12e5a.woff2",
+      "bytes": 27420,
+      "version": 1792582017,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/c2bef016fb-gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ-abb4c4e12e5a.woff2",
+      "verified": true,
+      "deliveryBytes": 27420,
+      "contentType": "font/woff2"
+    },
+    "/assets/dbf061b2c7-ZgNQjPxGPbbJUZemjC38.woff2": {
+      "source": "/assets/dbf061b2c7-ZgNQjPxGPbbJUZemjC38.woff2",
+      "spellings": [
+        "/assets/dbf061b2c7-ZgNQjPxGPbbJUZemjC38.woff2"
+      ],
+      "checksum": "4c90df055c79752120b134c05a65038b6bd2ff64498da11067af7f0a9657fe32",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/veyra/dbf061b2c7-ZgNQjPxGPbbJUZemjC38-4c90df055c79.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/dbf061b2c7-ZgNQjPxGPbbJUZemjC38-4c90df055c79.woff2",
+      "bytes": 30236,
+      "version": 1792582017,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/dbf061b2c7-ZgNQjPxGPbbJUZemjC38-4c90df055c79.woff2",
+      "verified": true,
+      "deliveryBytes": 30236,
+      "contentType": "font/woff2"
+    },
+    "/assets/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw.woff2": {
+      "source": "/assets/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw.woff2",
+      "spellings": [
+        "/assets/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw.woff2"
+      ],
+      "checksum": "da2ee0751de9492115df70982b758b657e2a516845fae26fb688f8a3a473569b",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/veyra/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw-da2ee0751de9.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw-da2ee0751de9.woff2",
+      "bytes": 43580,
+      "version": 1792582017,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/ef48ccba10-fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgjw-da2ee0751de9.woff2",
+      "verified": true,
+      "deliveryBytes": 43580,
+      "contentType": "font/woff2"
+    },
+    "/assets/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ.woff2": {
+      "source": "/assets/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ.woff2",
+      "spellings": [
+        "/assets/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ.woff2"
+      ],
+      "checksum": "5fe951085cce49c3dd9718e34ae53af83c5c23767b92f688f1a87590b52b5cf2",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/veyra/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ-5fe951085cce.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ-5fe951085cce.woff2",
+      "bytes": 28212,
+      "version": 1792582017,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582017/wazemtech/veyra/e374eee52b-gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nQ-5fe951085cce.woff2",
+      "verified": true,
+      "deliveryBytes": 28212,
+      "contentType": "font/woff2"
+    }
+  }
+}

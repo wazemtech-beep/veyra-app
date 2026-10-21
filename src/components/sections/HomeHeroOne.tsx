@@ -1,4 +1,5 @@
 "use client";
+import DeferredVideo from "@/components/ui/DeferredVideo";
 import { useRef } from "react";
 import Image from "next/image";
 import { siteConfig } from "@/data/siteConfig";
@@ -157,19 +158,19 @@ export default function HomeHeroOne() {
         <div className="rt-hero-video-wrap rt-full-width rt-radius-v2 rt-overflow-hidden">
           <div className="rt-full-height rt-full-width rt-z-index-1 w-embed">
             <div
-              data-poster-url="/assets/bd98ae0ea8-6a701b99064772c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster.avif"
-              data-video-urls="/assets/e6b0d8f389-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4.mp4,/assets/b0aac290e5-6a3a2ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm.webm"
+              data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/v1792581739/wazemtech/veyra/72c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster-469240adbbfe.avif"
+              data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581745/wazemtech/veyra/ec973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_mp4-27d433e1fc7a.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581745/wazemtech/veyra/c973fc5efc103a0d0d-6a7019267d0bc9978e6f3f0e_hero-1-video--1-_webm-e1bf962a2674.webm"
               data-autoplay="true"
               data-loop="true"
               className="rt-full-height rt-full-width rt-z-index-1 w-background-video w-background-video-atom"
             >
-              <video
+              <DeferredVideo
                 id="10051e1b-2928-172c-8081-4b43a3d139b4-video"
                 autoPlay={true}
                 loop={true}
                 style={{
                   backgroundImage:
-                    'url("/assets/bd98ae0ea8-6a701b99064772c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster.avif")',
+                    'url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581739/wazemtech/veyra/72c895130388_217fc93902e0f1d017bb4cf654cc59b8_hero-1-video-poster-469240adbbfe.avif")',
                 }}
                 muted={true}
                 playsInline={true}
@@ -177,7 +178,7 @@ export default function HomeHeroOne() {
               >
                 <source src={content.mp4Image} />
                 <source src={content.webmImage} />
-              </video>
+              </DeferredVideo>
               <div aria-live="polite">
                 <button
                   type="button"

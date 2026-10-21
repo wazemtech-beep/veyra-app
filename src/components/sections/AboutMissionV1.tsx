@@ -1,4 +1,5 @@
 "use client";
+import DeferredVideo from "@/components/ui/DeferredVideo";
 import { useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -12,19 +13,19 @@ export default function AboutMissionV1() {
         <div className="w-layout-hflex rt-mission-v1-wrapper rt-full-height rt-overflow-hidden">
           <div className="rt-mission-v1-block rt-mission-v1-block-1">
             <div
-              data-poster-url="/assets/134e20ec79-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster.0000000.jpg"
-              data-video-urls="/assets/de973d2382-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4.mp4,/assets/9379a33e77-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm.webm"
+              data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581735/wazemtech/veyra/5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster-0000000-8d2986fc3b46.jpg"
+              data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581741/wazemtech/veyra/a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_mp4-2784a3bd9655.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581740/wazemtech/veyra/3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_webm-0c03a4066d26.webm"
               data-autoplay="true"
               data-loop="true"
               className="rt-full-height rt-z-index-1 _63 w-background-video w-background-video-atom"
             >
-              <video
+              <DeferredVideo
                 id="297d85a5-4a2f-7aad-24ee-a8d7c4edf544-video"
                 autoPlay={true}
                 loop={true}
                 style={{
                   backgroundImage:
-                    'url("/assets/134e20ec79-6a3a2ec973fc5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster.0000000.jpg")',
+                    'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581735/wazemtech/veyra/5efc103a0d0d-6a58c9c2c142bf32e0fa6fb6_ission-video_poster-0000000-8d2986fc3b46.jpg")',
                 }}
                 muted={true}
                 playsInline={true}
@@ -32,7 +33,7 @@ export default function AboutMissionV1() {
               >
                 <source src={content.mp4Image} />
                 <source src={content.webmImage} />
-              </video>
+              </DeferredVideo>
               <div aria-live="polite">
                 <button
                   type="button"

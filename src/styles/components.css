@@ -965,7 +965,7 @@
   box-shadow: var(--_sizes---spacing--sp-0x) var(--_sizes---spacing--sp-0x)
     var(--_sizes---spacing--sp-0x) var(--_sizes---spacing--sp-0x)
     var(--_colors---neutral-color--transparent);
-  background-image: url("/assets/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon.svg");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581814/wazemtech/veyra/08f26bcdbd-6a5dae8bf17f9bc100b2b409_checkbox-icon-3177311d35c3.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -1320,10 +1320,10 @@
   bottom: var(--_sizes---spacing--sp-0x);
   background-color: var(--_colors---background-color--bg-secondary);
   position: absolute;
-  -webkit-mask: url("/assets/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask.svg")
+  -webkit-mask: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581815/wazemtech/veyra/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask-4321d3af1180.svg")
     center / cover no-repeat;
   -webkit-mask-source-type: luminance;
-  mask: url("/assets/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask.svg")
+  mask: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581815/wazemtech/veyra/c316ca0d55-6a54b3cc08b770894f055fb9_portfolio-circle-mask-4321d3af1180.svg")
     center / cover no-repeat luminance;
 }
 

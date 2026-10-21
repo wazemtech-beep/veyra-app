@@ -1,4 +1,5 @@
 "use client";
+import DeferredVideo from "@/components/ui/DeferredVideo";
 import { useRef } from "react";
 import Image from "next/image";
 import { siteConfig } from "@/data/siteConfig";
@@ -29,19 +30,19 @@ export default function AboutInnerHeroV1() {
             className="rt-hero-v2-video rt-radius-v1 rt-overflow-hidden rt-hero-v2-text-image-wrap-v2"
           >
             <div
-              data-poster-url="/assets/a97d13ba9b-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_poster.0000000.jpg"
-              data-video-urls="/assets/c8243a8a71-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4.mp4,/assets/613d7a7e41-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm.webm"
+              data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581734/wazemtech/veyra/refly-generate-a-motion-video-by-this-image-557484_poster-0000000-c797e499d75f.jpg"
+              data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581736/wazemtech/veyra/e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_mp4-b2d0003d6fd0.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581736/wazemtech/veyra/74ed322_Firefly-generate-a-motion-video-by-this-image-557484_webm-dc3c55cb5fe0.webm"
               data-autoplay="true"
               data-loop="true"
               className="rt-full-height rt-full-width w-background-video w-background-video-atom"
             >
-              <video
+              <DeferredVideo
                 id="9384aded-40a8-9856-f751-ce01120fee5c-video"
                 autoPlay={true}
                 loop={true}
                 style={{
                   backgroundImage:
-                    'url("/assets/a97d13ba9b-6a3a2ec973fc5efc103a0d0d-6a5605d3fe9ce5f1e74ed322_Firefly-generate-a-motion-video-by-this-image-557484_poster.0000000.jpg")',
+                    'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581734/wazemtech/veyra/refly-generate-a-motion-video-by-this-image-557484_poster-0000000-c797e499d75f.jpg")',
                 }}
                 muted={true}
                 playsInline={true}
@@ -49,7 +50,7 @@ export default function AboutInnerHeroV1() {
               >
                 <source src={content.mp4Image} />
                 <source src={content.webmImage} />
-              </video>
+              </DeferredVideo>
               <div aria-live="polite">
                 <button
                   type="button"
